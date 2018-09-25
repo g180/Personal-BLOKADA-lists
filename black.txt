@@ -1,0 +1,10 @@
+# http://nozomi.2ch.sc/test/read.cgi/ios/1442396520/n854
+
+0.0.0.0 action.adzcore.com
+0.0.0.0 analytics.app-adforce.jp
+0.0.0.0 app.adjust.io
+0.0.0.0 e.crashlytics.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 setting.adzcore.com
+0.0.0.0 us-analytics-api.gree-apps.net
+0.0.0.0 us-marketing-api.gree-apps.net
