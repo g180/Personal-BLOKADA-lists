@@ -1,2 +1,3 @@
+a.gree.jp
 code.createjs.com
 rdsig.yahoo.co.jp
