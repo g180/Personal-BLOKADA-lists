@@ -2,3 +2,4 @@ a.gree.jp
 code.createjs.com
 gree.jp
 rdsig.yahoo.co.jp
+trafficnews.jp
