@@ -2,4 +2,5 @@ a.gree.jp
 code.createjs.com
 gree.jp
 rdsig.yahoo.co.jp
+stat.i3.dmm.com
 trafficnews.jp
