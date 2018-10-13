@@ -3,3 +3,4 @@ code.createjs.com
 gree.jp
 rdsig.yahoo.co.jp
 trafficnews.jp
+wpcomwidgets.com
