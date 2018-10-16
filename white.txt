@@ -5,3 +5,4 @@ rdsig.yahoo.co.jp
 scontent-nrt1-1.xx.fbcdn.net
 trafficnews.jp
 wpcomwidgets.com
+www.brightcove.com
