@@ -1,6 +1,7 @@
 a.gree.jp
 code.createjs.com
 gree.jp
+player.h-cdn.com
 rdsig.yahoo.co.jp
 scontent-nrt1-1.xx.fbcdn.net
 trafficnews.jp
