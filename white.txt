@@ -9,4 +9,4 @@ syndication.exosrv.com
 trafficnews.jp
 wpcomwidgets.com
 www.brightcove.com
-www.rapivideo.com
+www.rapidvideo.com
