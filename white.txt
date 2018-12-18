@@ -4,6 +4,7 @@ gree.jp
 player.h-cdn.com
 player2.h-cdn.com
 rdsig.yahoo.co.jp
+s2.reutersmedia.net
 scontent-nrt1-1.xx.fbcdn.net
 syndication.exosrv.com
 trafficnews.jp
