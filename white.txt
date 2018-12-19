@@ -1,6 +1,7 @@
 a.gree.jp
 code.createjs.com
 gree.jp
+log.mmstat.com
 player.h-cdn.com
 player2.h-cdn.com
 rdsig.yahoo.co.jp
