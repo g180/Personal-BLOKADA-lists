@@ -1,9 +1,9 @@
 a.gree.jp
 api.cxense.com
-c.brightcove.com
 code.createjs.com
 gree.jp
 log.mmstat.com
+metrics.brightcove.com
 player.h-cdn.com
 player2.h-cdn.com
 rdsig.yahoo.co.jp
