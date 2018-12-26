@@ -1,4 +1,5 @@
 a.gree.jp
+api.cxense.com
 code.createjs.com
 gree.jp
 log.mmstat.com
