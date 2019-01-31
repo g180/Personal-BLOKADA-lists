@@ -7,6 +7,7 @@ log.mmstat.com
 open.spotify.com
 player.h-cdn.com
 player2.h-cdn.com
+r1.ykimg.com
 rdsig.yahoo.co.jp
 reward.gree.net
 s2.reutersmedia.net
