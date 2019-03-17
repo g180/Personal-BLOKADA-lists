@@ -4,6 +4,8 @@ api.cxense.com
 code.createjs.com
 dmxleo.dailymotion.com
 gree.jp
+gyazo.com
+i.gyazo.com
 log.mmstat.com
 open.spotify.com
 player.h-cdn.com
