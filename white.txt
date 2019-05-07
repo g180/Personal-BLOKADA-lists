@@ -6,6 +6,7 @@ dmxleo.dailymotion.com
 gree.jp
 gyazo.com
 i.gyazo.com
+imgcdn.pandora.tv
 log.mmstat.com
 open.spotify.com
 player.h-cdn.com
