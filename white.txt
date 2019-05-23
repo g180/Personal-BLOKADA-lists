@@ -1,6 +1,7 @@
 a.gree.jp
 analytics.twitter.com
 api.cxense.com
+b.hatena.ne.jp
 ci.appveyor.com
 code.createjs.com
 dmxleo.dailymotion.com
