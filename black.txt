@@ -10,7 +10,11 @@
 0.0.0.0 e.crashlytics.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 log.smartnews-ads.com
+0.0.0.0 se-recommend-img.smartnews.com
+0.0.0.0 se-recommend.smartnews.com
 0.0.0.0 setting.adzcore.com
 0.0.0.0 smartnews-ads.com
 0.0.0.0 us-analytics-api.gree-apps.net
 0.0.0.0 us-marketing-api.gree-apps.net
+0.0.0.0 video-content.smartnews.com
+0.0.0.0 video-manifest.smartnews.com
