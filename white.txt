@@ -1,12 +1,13 @@
+79423.analytics.edgekey.net
 a.gree.jp
 analytics.twitter.com
-api-a.op-mobile.opera.com
 api.cxense.com
-api.recsys.opera.com
+assets.adobedtm.com
 b.hatena.ne.jp
 ci.appveyor.com
 code.createjs.com
 dmxleo.dailymotion.com
+dpm.demdex.net
 gree.jp
 gyazo.com
 i.gyazo.com
