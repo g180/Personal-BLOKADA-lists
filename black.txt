@@ -6,6 +6,7 @@
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 analytics.app-adforce.jp
 0.0.0.0 api-p.smartnews-ads.com
+0.0.0.0 api.leanplum.com
 0.0.0.0 api.smartnews-ads.com
 0.0.0.0 app.adjust.io
 0.0.0.0 assets.dspunion.com
