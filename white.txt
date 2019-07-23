@@ -1,5 +1,6 @@
 a.gree.jp
 analytics.twitter.com
+api-a.op-mobile.opera.com
 api.cxense.com
 b.hatena.ne.jp
 ci.appveyor.com
