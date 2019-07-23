@@ -8,6 +8,7 @@
 0.0.0.0 api-p.smartnews-ads.com
 0.0.0.0 api.smartnews-ads.com
 0.0.0.0 app.adjust.io
+0.0.0.0 assets.dspunion.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b.smartnews.be
 0.0.0.0 basebanner.com
