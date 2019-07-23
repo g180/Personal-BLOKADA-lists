@@ -2,6 +2,7 @@ a.gree.jp
 analytics.twitter.com
 api-a.op-mobile.opera.com
 api.cxense.com
+api.recsys.opera.com
 b.hatena.ne.jp
 ci.appveyor.com
 code.createjs.com
