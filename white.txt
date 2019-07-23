@@ -20,6 +20,8 @@ reward.gree.net
 s2.reutersmedia.net
 scontent-nrt1-1.xx.fbcdn.net
 syndication.exosrv.com
+thumbnails.opera.com
+thumbnails2.opera.com
 trafficnews.jp
 wpcomwidgets.com
 www.brightcove.com
