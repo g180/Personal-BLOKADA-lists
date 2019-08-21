@@ -5,6 +5,7 @@ api.cxense.com
 api.recsys.opera.com
 assets.adobedtm.com
 b.hatena.ne.jp
+cdn.ampproject.org
 ci.appveyor.com
 code.createjs.com
 dmxleo.dailymotion.com
