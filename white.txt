@@ -28,6 +28,7 @@ syndication.exosrv.com
 thumbnails.opera.com
 thumbnails2.opera.com
 trafficnews.jp
+unstats.un.org
 wpcomwidgets.com
 www.brightcove.com
 www.rapidvideo.com
