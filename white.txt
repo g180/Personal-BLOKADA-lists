@@ -31,3 +31,4 @@ trafficnews.jp
 wpcomwidgets.com
 www.brightcove.com
 www.rapidvideo.com
+www.stat.go.jp
