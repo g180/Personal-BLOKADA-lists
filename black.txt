@@ -1,3 +1,5 @@
+# http://nozomi.2ch.sc/test/read.cgi/ios/1442396520/n854
+
 0.0.0.0 a.teads.tv
 0.0.0.0 action.adzcore.com
 0.0.0.0 ad.afy11.net
