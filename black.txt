@@ -22,6 +22,7 @@
 0.0.0.0 deployads.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 italiangarlic.it
 0.0.0.0 js.revsci.net
 0.0.0.0 log.smartnews-ads.com
 0.0.0.0 logger-04.vty.dailymotion.com
@@ -37,3 +38,4 @@
 0.0.0.0 us-marketing-api.gree-apps.net
 0.0.0.0 video-content.smartnews.com
 0.0.0.0 video-manifest.smartnews.com
+0.0.0.0 your-best-prize.life
