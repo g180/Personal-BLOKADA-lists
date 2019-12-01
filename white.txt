@@ -3,9 +3,12 @@ d3c3cq33003psk.cloudfront.net
 a.gree.jp
 analytics.twitter.com
 api.cxense.com
+api.iterable.com
 api.recsys.opera.com
 assets.adobedtm.com
 b.hatena.ne.jp
+cdn.content.prod.cms.msn.com
+cdn.jsdelivr.net
 ci.appveyor.com
 code.createjs.com
 dmxleo.dailymotion.com
@@ -17,6 +20,7 @@ i.gyazo.com
 imgcdn.pandora.tv
 komachi.yomiuri.co.jp
 log.mmstat.com
+ma422-r.analytics.edgekey.net
 open.spotify.com
 player.h-cdn.com
 player2.h-cdn.com
@@ -26,6 +30,7 @@ reward.gree.net
 s2.reutersmedia.net
 scontent-nrt1-1.xx.fbcdn.net
 static.share-videos.se
+static.zdassets.com
 syndication.exosrv.com
 thumbnails.opera.com
 thumbnails2.opera.com
