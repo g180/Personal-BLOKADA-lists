@@ -30,6 +30,7 @@ rdsig.yahoo.co.jp
 reward.gree.net
 s2.reutersmedia.net
 scontent-nrt1-1.xx.fbcdn.net
+stat.ameba.jp
 static.share-videos.se
 static.zdassets.com
 syndication.exosrv.com
