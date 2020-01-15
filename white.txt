@@ -38,6 +38,7 @@ thumbnails.opera.com
 thumbnails2.opera.com
 trafficnews.jp
 unstats.un.org
+vjs.zencdn.net
 weblio.hs.llnwd.net
 wpcomwidgets.com
 www.brightcove.com
