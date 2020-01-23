@@ -44,3 +44,4 @@ wpcomwidgets.com
 www.brightcove.com
 www.rapidvideo.com
 www.stat.go.jp
+www.youtube-nocookie.com
