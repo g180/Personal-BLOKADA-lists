@@ -41,6 +41,7 @@ unstats.un.org
 vjs.zencdn.net
 weblio.hs.llnwd.net
 wpcomwidgets.com
+www.addtoany.com
 www.brightcove.com
 www.rapidvideo.com
 www.stat.go.jp
