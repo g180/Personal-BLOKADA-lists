@@ -18,6 +18,7 @@ graphql.api.dailymotion.com
 gree.jp
 gyazo.com
 i.gyazo.com
+ift.tt
 imgcdn.pandora.tv
 komachi.yomiuri.co.jp
 log.mmstat.com
