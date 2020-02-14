@@ -24,6 +24,7 @@ komachi.yomiuri.co.jp
 log.mmstat.com
 ma422-r.analytics.edgekey.net
 open.spotify.com
+playatoms-pa.googleapis.com
 player.h-cdn.com
 player2.h-cdn.com
 r1.ykimg.com
