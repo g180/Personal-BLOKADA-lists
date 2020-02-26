@@ -38,4 +38,5 @@
 0.0.0.0 us-marketing-api.gree-apps.net
 0.0.0.0 video-content.smartnews.com
 0.0.0.0 video-manifest.smartnews.com
+0.0.0.0 xn--xhq9mt12cf5v.art
 0.0.0.0 your-best-prize.life
