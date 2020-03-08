@@ -21,12 +21,14 @@
 0.0.0.0 criteo.com
 0.0.0.0 dailymotion-ams.gravityrd-services.com
 0.0.0.0 deployads.com
+0.0.0.0 discordonrainofurain.over-blog.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 italiangarlic.it
 0.0.0.0 js.revsci.net
 0.0.0.0 log.smartnews-ads.com
 0.0.0.0 logger-04.vty.dailymotion.com
+0.0.0.0 no-ga-mi-panya.over-blog.com
 0.0.0.0 pebed.dm.gg
 0.0.0.0 play3107.varbigwin8.live
 0.0.0.0 revsci.net
