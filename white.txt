@@ -14,6 +14,7 @@ code.createjs.com
 dmxleo.dailymotion.com
 downdetector.com
 dpm.demdex.net
+firealpaca.com
 graphql.api.dailymotion.com
 gree.jp
 gyazo.com
