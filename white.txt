@@ -24,6 +24,7 @@ imgcdn.pandora.tv
 kai-you.net
 komachi.yomiuri.co.jp
 log.mmstat.com
+logmi.jp
 ma422-r.analytics.edgekey.net
 open.spotify.com
 playatoms-pa.googleapis.com
