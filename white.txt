@@ -11,6 +11,7 @@ cdn.content.prod.cms.msn.com
 cdn.jsdelivr.net
 ci.appveyor.com
 code.createjs.com
+discordapp.page.link
 dmxleo.dailymotion.com
 downdetector.com
 dpm.demdex.net
