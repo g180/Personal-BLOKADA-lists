@@ -9,6 +9,7 @@ assets.adobedtm.com
 b.hatena.ne.jp
 cdn.content.prod.cms.msn.com
 cdn.jsdelivr.net
+cdn.pagesense.io
 ci.appveyor.com
 code.createjs.com
 discordapp.page.link
