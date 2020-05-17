@@ -15,6 +15,7 @@
 0.0.0.0 basebanner.com
 0.0.0.0 beacon.krxd.net
 0.0.0.0 besttopappmobile.club
+0.0.0.0 bioresident10.live
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 cdn.smartnews-ads.com
