@@ -14,6 +14,7 @@
 0.0.0.0 b.smartnews.be
 0.0.0.0 basebanner.com
 0.0.0.0 beacon.krxd.net
+0.0.0.0 besttopappmobile.club
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 cdn.smartnews-ads.com
@@ -24,6 +25,7 @@
 0.0.0.0 discordonrainofurain.over-blog.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 full3bwhdd1aog.changeip.net
+0.0.0.0 funwarcab.club
 0.0.0.0 graph.facebook.com
 0.0.0.0 italiangarlic.it
 0.0.0.0 js.revsci.net
