@@ -14,6 +14,7 @@
 0.0.0.0 b.smartnews.be
 0.0.0.0 basebanner.com
 0.0.0.0 beacon.krxd.net
+0.0.0.0 bestchoicedomain.info
 0.0.0.0 besttopappmobile.club
 0.0.0.0 bioresident10.live
 0.0.0.0 cdn.krxd.net
