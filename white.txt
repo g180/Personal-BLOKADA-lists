@@ -28,6 +28,7 @@ komachi.yomiuri.co.jp
 log.mmstat.com
 logmi.jp
 ma422-r.analytics.edgekey.net
+manifest.prod.boltdns.net
 open.spotify.com
 pics.dmm.co.jp
 pics.dmm.com
