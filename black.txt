@@ -1,6 +1,8 @@
 # http://nozomi.2ch.sc/test/read.cgi/ios/1442396520/n854
 
 0.0.0.0 a.teads.tv
+0.0.0.0 abema.adx.promo
+0.0.0.0 abemameas-adx.promo
 0.0.0.0 action.adzcore.com
 0.0.0.0 ad.afy11.net
 0.0.0.0 ads.stickyadstv.com
@@ -10,6 +12,7 @@
 0.0.0.0 api.smartnews-ads.com
 0.0.0.0 app.adjust.io
 0.0.0.0 assets.dspunion.com
+0.0.0.0 avod.ad.abema.io
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b.smartnews.be
 0.0.0.0 basebanner.com
@@ -49,6 +52,7 @@
 0.0.0.0 us-marketing-api.gree-apps.net
 0.0.0.0 video-content.smartnews.com
 0.0.0.0 video-manifest.smartnews.com
+0.0.0.0 vtrk.ad.abema.io
 0.0.0.0 xn--wxtr9fwyxk9c.xn--io0a7i
 0.0.0.0 xn--xhq9mt12cf5v.art
 0.0.0.0 your-best-prize.life
