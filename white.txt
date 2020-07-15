@@ -54,6 +54,7 @@ weblio.hs.llnwd.net
 wpcomwidgets.com
 www.addtoany.com
 www.brightcove.com
+www.eater.com
 www.popmatters.com
 www.rapidvideo.com
 www.stat.go.jp
