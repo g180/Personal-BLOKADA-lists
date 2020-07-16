@@ -58,6 +58,7 @@ wpcomwidgets.com
 www.addtoany.com
 www.brightcove.com
 www.eater.com
+www.gstatic.com
 www.popmatters.com
 www.rapidvideo.com
 www.stat.go.jp
