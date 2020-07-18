@@ -51,6 +51,7 @@ syndication.exosrv.com
 thumbnails.opera.com
 thumbnails2.opera.com
 trafficnews.jp
+twitter.app.link
 unstats.un.org
 vjs.zencdn.net
 weblio.hs.llnwd.net
