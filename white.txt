@@ -24,6 +24,7 @@ gyazo.com
 i.gyazo.com
 ift.tt
 imgcdn.pandora.tv
+js.zohocdn.com
 jsoon.digitiminimi.com
 kai-you.net
 komachi.yomiuri.co.jp
