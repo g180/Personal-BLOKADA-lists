@@ -11,6 +11,7 @@ b.hatena.ne.jp
 cdn.content.prod.cms.msn.com
 cdn.jsdelivr.net
 cdn.pagesense.io
+cdn1.edgedatg.com
 ci.appveyor.com
 code.createjs.com
 discordapp.page.link
