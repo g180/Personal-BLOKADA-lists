@@ -12,7 +12,9 @@ cdn.content.prod.cms.msn.com
 cdn.jsdelivr.net
 cdn.pagesense.io
 cdn1.edgedatg.com
+cdn1d-static-shared.phncdn.com
 ci.appveyor.com
+ci.phncdn.com
 code.createjs.com
 discordapp.page.link
 dmxleo.dailymotion.com
