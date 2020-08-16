@@ -7,6 +7,7 @@ api.iterable.com
 api.recsys.opera.com
 assets.adobedtm.com
 assets.bwbx.io
+assets.squarespace.com
 b.hatena.ne.jp
 cdn.content.prod.cms.msn.com
 cdn.jsdelivr.net
@@ -54,6 +55,7 @@ stat.ameba.jp
 static.share-videos.se
 static.zdassets.com
 static1.dmcdn.net
+static1.squarespace.com
 syndication.exosrv.com
 thumbnails.opera.com
 thumbnails2.opera.com
