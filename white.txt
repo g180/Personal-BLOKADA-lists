@@ -17,6 +17,7 @@ cdn1d-static-shared.phncdn.com
 ci.appveyor.com
 ci.phncdn.com
 code.createjs.com
+d1hi41nc56pmug.cloudfront.net
 discordapp.page.link
 dmxleo.dailymotion.com
 downdetector.com
