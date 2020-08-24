@@ -16,6 +16,7 @@ cdn1.edgedatg.com
 cdn1d-static-shared.phncdn.com
 ci.appveyor.com
 ci.phncdn.com
+cloudflare-dns.com
 code.createjs.com
 discordapp.page.link
 dmxleo.dailymotion.com
