@@ -33,6 +33,7 @@ js.zohocdn.com
 jsoon.digitiminimi.com
 kai-you.net
 komachi.yomiuri.co.jp
+live.mrf.io
 log.mmstat.com
 logmi.jp
 ma422-r.analytics.edgekey.net
