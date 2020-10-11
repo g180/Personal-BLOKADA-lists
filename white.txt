@@ -69,6 +69,7 @@ vjs.zencdn.net
 weblio.hs.llnwd.net
 wpcomwidgets.com
 www.addtoany.com
+www.appsupport.jp
 www.brightcove.com
 www.eater.com
 www.gstatic.com
