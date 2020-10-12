@@ -55,6 +55,7 @@ s2.reutersmedia.net
 scontent-nrt1-1.xx.fbcdn.net
 slot1-images.wikia.nocookie.net
 stat.ameba.jp
+static.parastorage.com
 static.share-videos.se
 static.zdassets.com
 static1.dmcdn.net
