@@ -1,5 +1,5 @@
-d3c3cq33003psk.cloudfront.net
 79423.analytics.edgekey.net
+d3c3cq33003psk.cloudfront.net
 a.gree.jp
 analytics.twitter.com
 api.cxense.com
