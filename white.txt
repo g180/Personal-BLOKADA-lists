@@ -74,6 +74,7 @@ www.appsupport.jp
 www.brightcove.com
 www.eater.com
 www.gstatic.com
+www.mywot.com
 www.popmatters.com
 www.rapidvideo.com
 www.stat.go.jp
