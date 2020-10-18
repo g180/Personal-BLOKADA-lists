@@ -40,6 +40,7 @@ ma422-r.analytics.edgekey.net
 manifest.prod.boltdns.net
 navismithapis-cdn.com
 open.spotify.com
+p.dmm.co.jp
 pdst.fm
 pics.dmm.co.jp
 pics.dmm.com
