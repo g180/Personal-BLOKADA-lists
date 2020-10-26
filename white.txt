@@ -52,6 +52,7 @@ playlist.megaphone.fm
 r1.ykimg.com
 rdsig.yahoo.co.jp
 reward.gree.net
+s18671.pcdn.co
 s2.reutersmedia.net
 scontent-nrt1-1.xx.fbcdn.net
 slot1-images.wikia.nocookie.net
