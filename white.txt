@@ -54,9 +54,10 @@ player.h-cdn.com
 player.megaphone.fm
 player2.h-cdn.com
 playlist.megaphone.fm
-r1.ykimg.com
 r.r10s.jp
+r1.ykimg.com
 rdsig.yahoo.co.jp
+resize.blogsys.jp
 reward.gree.net
 s18671.pcdn.co
 s2.reutersmedia.net
