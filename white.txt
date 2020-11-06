@@ -45,6 +45,7 @@ manifest.prod.boltdns.net
 navismithapis-cdn.com
 open.spotify.com
 p.dmm.co.jp
+parts.blog.livedoor.jp
 pdst.fm
 pics.dmm.co.jp
 pics.dmm.com
