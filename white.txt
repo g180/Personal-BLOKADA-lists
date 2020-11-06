@@ -15,6 +15,7 @@ cdn.jsdelivr.net
 cdn.pagesense.io
 cdn1.edgedatg.com
 cdn1d-static-shared.phncdn.com
+chrome.cloudflare-dns.com
 ci.appveyor.com
 ci.phncdn.com
 cloudflare-dns.com
@@ -53,6 +54,7 @@ player.megaphone.fm
 player2.h-cdn.com
 playlist.megaphone.fm
 r1.ykimg.com
+r.r10s.jp
 rdsig.yahoo.co.jp
 reward.gree.net
 s18671.pcdn.co
