@@ -14,6 +14,7 @@ b.hatena.ne.jp
 cdn.content.prod.cms.msn.com
 cdn.jsdelivr.net
 cdn.pagesense.io
+cdn-client.medium.com
 cdn1.edgedatg.com
 cdn1d-static-shared.phncdn.com
 chrome.cloudflare-dns.com
@@ -27,6 +28,7 @@ dmxleo.dailymotion.com
 downdetector.com
 dpm.demdex.net
 firealpaca.com
+glyph.medium.com
 graphql.api.dailymotion.com
 gree.jp
 gyazo.com
@@ -43,6 +45,7 @@ log.mmstat.com
 logmi.jp
 ma422-r.analytics.edgekey.net
 manifest.prod.boltdns.net
+miro.medium.com
 navismithapis-cdn.com
 open.spotify.com
 p.dmm.co.jp
