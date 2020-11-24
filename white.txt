@@ -28,6 +28,7 @@ dmxleo.dailymotion.com
 downdetector.com
 dpm.demdex.net
 firealpaca.com
+forum.xda-cdn.com
 glyph.medium.com
 graphql.api.dailymotion.com
 gree.jp
