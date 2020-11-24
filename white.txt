@@ -9,6 +9,7 @@ api.recsys.opera.com
 assets.adobedtm.com
 assets.bwbx.io
 assets.hcaptcha.com
+assets.hearstapps.com
 assets.squarespace.com
 b.hatena.ne.jp
 cdn.content.prod.cms.msn.com
