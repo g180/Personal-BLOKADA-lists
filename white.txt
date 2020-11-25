@@ -38,6 +38,8 @@ i.gyazo.com
 ift.tt
 img.mixi.net
 imgcdn.pandora.tv
+ip177732505.ahcdn.com
+ip177732610.ahcdn.com
 js.zohocdn.com
 jsoon.digitiminimi.com
 kai-you.net
@@ -82,6 +84,7 @@ thumbnails.opera.com
 thumbnails2.opera.com
 trafficnews.jp
 twitter.app.link
+txxx.ahcdn.com
 unstats.un.org
 vjs.zencdn.net
 weblio.hs.llnwd.net
