@@ -53,6 +53,7 @@ miro.medium.com
 navismithapis-cdn.com
 open.spotify.com
 p.dmm.co.jp
+p.dmm.com
 parts.blog.livedoor.jp
 pdst.fm
 pics.dmm.co.jp
