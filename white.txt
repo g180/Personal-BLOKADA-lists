@@ -58,6 +58,7 @@ parts.blog.livedoor.jp
 pdst.fm
 pics.dmm.co.jp
 pics.dmm.com
+play.app.goo.gl
 playatoms-pa.googleapis.com
 player.h-cdn.com
 player.megaphone.fm
