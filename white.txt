@@ -23,6 +23,7 @@ ci.appveyor.com
 ci.phncdn.com
 cloudflare-dns.com
 code.createjs.com
+di.phncdn.com
 digstatic.dmm.com
 discordapp.page.link
 dmxleo.dailymotion.com
@@ -74,6 +75,7 @@ s2.reutersmedia.net
 scontent-nrt1-1.xx.fbcdn.net
 script.mixi.net
 slot1-images.wikia.nocookie.net
+ss.phncdn.com
 stat.ameba.jp
 static.codepen.io
 static.parastorage.com
