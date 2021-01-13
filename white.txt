@@ -90,6 +90,7 @@ static3.makeuseofimages.com
 syndication.exosrv.com
 thumbnails.opera.com
 thumbnails2.opera.com
+timetravel.mementoweb.org
 trafficnews.jp
 twitter.app.link
 txxx.ahcdn.com
