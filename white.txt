@@ -29,6 +29,7 @@ discordapp.page.link
 dmxleo.dailymotion.com
 downdetector.com
 dpm.demdex.net
+facebook.com
 firealpaca.com
 forum.xda-cdn.com
 glyph.medium.com
