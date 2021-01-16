@@ -95,6 +95,7 @@ trafficnews.jp
 twitter.app.link
 txxx.ahcdn.com
 unstats.un.org
+vanilla.futurecdn.net
 vjs.zencdn.net
 weblio.hs.llnwd.net
 wpcomwidgets.com
