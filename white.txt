@@ -65,6 +65,7 @@ player.h-cdn.com
 player.megaphone.fm
 player2.h-cdn.com
 playlist.megaphone.fm
+public.api.nicovideo.jp
 r.r10s.jp
 r1.ykimg.com
 rdsig.yahoo.co.jp
