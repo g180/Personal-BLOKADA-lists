@@ -6,6 +6,7 @@ analytics.twitter.com
 api.cxense.com
 api.iterable.com
 api.recsys.opera.com
+apps.apple.com
 assets.adobedtm.com
 assets.bwbx.io
 assets.hcaptcha.com
