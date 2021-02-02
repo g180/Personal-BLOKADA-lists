@@ -153,6 +153,7 @@
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 taboola.com
 0.0.0.0 udorothyjhfb.dip.jp
+0.0.0.0 unagi.amazon.com
 0.0.0.0 us-analytics-api.gree-apps.net
 0.0.0.0 us-marketing-api.gree-apps.net
 0.0.0.0 video-content.smartnews.com
