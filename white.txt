@@ -89,6 +89,7 @@ static1.makeuseofimages.com
 static1.squarespace.com
 static2.makeuseofimages.com
 static3.makeuseofimages.com
+stats.wwitv.com
 syndication.exosrv.com
 thumbnails.opera.com
 thumbnails2.opera.com
