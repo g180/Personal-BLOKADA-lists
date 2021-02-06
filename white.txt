@@ -98,6 +98,7 @@ twitter.app.link
 txxx.ahcdn.com
 unstats.un.org
 vanilla.futurecdn.net
+vaughnlive.tv
 vjs.zencdn.net
 weblio.hs.llnwd.net
 wpcomwidgets.com
