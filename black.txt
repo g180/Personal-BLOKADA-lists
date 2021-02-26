@@ -131,6 +131,7 @@
 0.0.0.0 deployads.com
 0.0.0.0 discordonrainofurain.over-blog.com
 0.0.0.0 dix3.com
+0.0.0.0 e-10250.adzerk.net
 0.0.0.0 e.crashlytics.com
 0.0.0.0 full3bwhdd1aog.changeip.net
 0.0.0.0 funwarcab.club
