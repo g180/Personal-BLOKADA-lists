@@ -33,6 +33,7 @@ downdetector.com
 dpm.demdex.net
 firealpaca.com
 forum.xda-cdn.com
+github.githubassets.com
 glyph.medium.com
 graphql.api.dailymotion.com
 gree.jp
