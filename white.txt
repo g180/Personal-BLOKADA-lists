@@ -44,6 +44,11 @@ img.mixi.net
 imgcdn.pandora.tv
 ip177732505.ahcdn.com
 ip177732610.ahcdn.com
+is1-ssl.mzstatic.com
+is2-ssl.mzstatic.com
+is3-ssl.mzstatic.com
+is4-ssl.mzstatic.com
+is5-ssl.mzstatic.com
 js.zohocdn.com
 jsoon.digitiminimi.com
 kai-you.net
