@@ -39,6 +39,7 @@ graphql.api.dailymotion.com
 gree.jp
 gyazo.com
 i.gyazo.com
+i.ibb.co
 ift.tt
 img.mixi.net
 imgcdn.pandora.tv
