@@ -40,6 +40,7 @@ gree.jp
 gyazo.com
 i.gyazo.com
 i.ibb.co
+i.pximg.net
 ift.tt
 img.mixi.net
 imgcdn.pandora.tv
@@ -80,6 +81,7 @@ r1.ykimg.com
 rdsig.yahoo.co.jp
 resize.blogsys.jp
 reward.gree.net
+s.pximg.net
 s1.dmcdn.net
 s18671.pcdn.co
 s2.dmcdn.net
