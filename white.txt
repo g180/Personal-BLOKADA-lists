@@ -32,6 +32,7 @@ dmxleo.dailymotion.com
 downdetector.com
 dpm.demdex.net
 firealpaca.com
+fnn.ismcdn.jp
 forum.xda-cdn.com
 github.githubassets.com
 glyph.medium.com
