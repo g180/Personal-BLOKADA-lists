@@ -13,6 +13,7 @@ assets.hcaptcha.com
 assets.hearstapps.com
 assets.squarespace.com
 b.hatena.ne.jp
+b.st-hatena.com
 cdn.content.prod.cms.msn.com
 cdn.jsdelivr.net
 cdn.pagesense.io
