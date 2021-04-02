@@ -35,6 +35,7 @@ dpm.demdex.net
 firealpaca.com
 fnn.ismcdn.jp
 forum.xda-cdn.com
+gendai.ismcdn.jp
 github.githubassets.com
 glyph.medium.com
 graphql.api.dailymotion.com
