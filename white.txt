@@ -96,6 +96,7 @@ slot1-images.wikia.nocookie.net
 ss.phncdn.com
 stat.ameba.jp
 static.codepen.io
+static.fc2.com
 static.parastorage.com
 static.share-videos.se
 static.zdassets.com
