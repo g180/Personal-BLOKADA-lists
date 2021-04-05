@@ -11,6 +11,7 @@ assets.adobedtm.com
 assets.bwbx.io
 assets.hcaptcha.com
 assets.hearstapps.com
+assets.media-platform.com
 assets.squarespace.com
 b.hatena.ne.jp
 b.st-hatena.com
