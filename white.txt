@@ -45,6 +45,8 @@ gyazo.com
 i.gyazo.com
 i.ibb.co
 i.pximg.net
+i0.hdslb.com
+i2.hdslb.com
 ift.tt
 img.mixi.net
 imgcdn.pandora.tv
