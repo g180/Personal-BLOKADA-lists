@@ -44,6 +44,7 @@ glyph.medium.com
 graphql.api.dailymotion.com
 gree.jp
 gyazo.com
+href.li
 i.gyazo.com
 i.ibb.co
 i.pximg.net
