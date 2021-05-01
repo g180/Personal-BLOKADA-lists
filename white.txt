@@ -1,3 +1,4 @@
+64.media.tumblr.com
 79423.analytics.edgekey.net
 d3c3cq33003psk.cloudfront.net
 a.fsdn.com
@@ -13,6 +14,7 @@ assets.hcaptcha.com
 assets.hearstapps.com
 assets.media-platform.com
 assets.squarespace.com
+assets.tumblr.com
 b.hatena.ne.jp
 b.st-hatena.com
 cdn.content.prod.cms.msn.com
@@ -102,6 +104,7 @@ static.codepen.io
 static.fc2.com
 static.parastorage.com
 static.share-videos.se
+static.tumblr.com
 static.zdassets.com
 static0.makeuseofimages.com
 static1.dmcdn.net
