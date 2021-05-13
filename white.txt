@@ -29,6 +29,7 @@ ci.appveyor.com
 ci.phncdn.com
 cloudflare-dns.com
 code.createjs.com
+content.invisioncic.com
 di.phncdn.com
 digstatic.dmm.com
 discordapp.page.link
