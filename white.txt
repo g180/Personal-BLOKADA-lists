@@ -52,6 +52,7 @@ i.pximg.net
 i0.hdslb.com
 i2.hdslb.com
 ift.tt
+images.squarespace-cdn.com
 img.mixi.net
 imgcdn.pandora.tv
 ip177732505.ahcdn.com
