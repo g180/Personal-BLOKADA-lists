@@ -54,6 +54,7 @@ i2.hdslb.com
 ift.tt
 images.squarespace-cdn.com
 img.mixi.net
+img.topics.smt.news.goo.ne.jp
 imgcdn.pandora.tv
 ip177732505.ahcdn.com
 ip177732610.ahcdn.com
