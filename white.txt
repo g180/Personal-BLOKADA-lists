@@ -52,6 +52,7 @@ i.pximg.net
 i0.hdslb.com
 i2.hdslb.com
 ift.tt
+image.jimcdn.com
 images.squarespace-cdn.com
 img.mixi.net
 img.topics.smt.news.goo.ne.jp
@@ -125,6 +126,7 @@ timetravel.mementoweb.org
 trafficnews.jp
 twitter.app.link
 txxx.ahcdn.com
+u.jimcdn.com
 unstats.un.org
 vanilla.futurecdn.net
 vaughnlive.tv
