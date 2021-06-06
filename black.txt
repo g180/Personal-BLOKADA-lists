@@ -142,6 +142,7 @@
 0.0.0.0 log.smartnews-ads.com
 0.0.0.0 logger-04.vty.dailymotion.com
 0.0.0.0 no-ga-mi-panya.over-blog.com
+0.0.0.0 okhfyyfgw.com
 0.0.0.0 pebed.dm.gg
 0.0.0.0 play3107.varbigwin8.live
 0.0.0.0 ponderaura.com
@@ -162,7 +163,9 @@
 0.0.0.0 vtrk.ad.abema.io
 0.0.0.0 ww7.dix3.com
 0.0.0.0 www.dix3.com
+0.0.0.0 www.okhfyyfgw.com
 0.0.0.0 www.recre8now.co.uk
+0.0.0.0 xffiyaucxebto.com
 0.0.0.0 xn--wxtr9fwyxk9c.xn--io0a7i
 0.0.0.0 xn--xhq9mt12cf5v.art
 0.0.0.0 your-best-prize.life
