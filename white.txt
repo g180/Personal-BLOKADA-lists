@@ -97,6 +97,7 @@ rdsig.yahoo.co.jp
 resize.blogsys.jp
 reward.gree.net
 s.pximg.net
+s.w.org
 s1.dmcdn.net
 s18671.pcdn.co
 s2.dmcdn.net
