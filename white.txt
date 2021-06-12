@@ -17,6 +17,7 @@ assets.squarespace.com
 assets.tumblr.com
 b.hatena.ne.jp
 b.st-hatena.com
+blog.hatena.ne.jp
 cdn.blog.st-hatena.com
 cdn.content.prod.cms.msn.com
 cdn.jsdelivr.net
