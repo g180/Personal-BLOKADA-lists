@@ -49,6 +49,7 @@ graphql.api.dailymotion.com
 gree.jp
 gyazo.com
 href.li
+i.daily.jp
 i.gyazo.com
 i.ibb.co
 i.pximg.net
