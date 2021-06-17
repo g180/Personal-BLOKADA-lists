@@ -52,6 +52,7 @@ href.li
 i.daily.jp
 i.gyazo.com
 i.ibb.co
+i.mycdn.me
 i.pximg.net
 i0.hdslb.com
 i2.hdslb.com
@@ -112,6 +113,7 @@ scontent-nrt1-1.xx.fbcdn.net
 script.mixi.net
 slot1-images.wikia.nocookie.net
 ss.phncdn.com
+st.mycdn.me
 stat.ameba.jp
 static.codepen.io
 static.fc2.com
