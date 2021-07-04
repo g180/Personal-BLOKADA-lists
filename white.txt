@@ -119,6 +119,7 @@ st.mycdn.me
 stat.ameba.jp
 static.codepen.io
 static.fc2.com
+static.gearspace.com
 static.parastorage.com
 static.share-videos.se
 static.tumblr.com
