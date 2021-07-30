@@ -35,6 +35,7 @@ ci.phncdn.com
 cloudflare-dns.com
 code.createjs.com
 content.invisioncic.com
+covers.zlibcdn2.com
 di.phncdn.com
 digstatic.dmm.com
 discordapp.page.link
