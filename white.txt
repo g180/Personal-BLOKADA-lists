@@ -107,6 +107,7 @@ public.slidesharecdn.com
 r.r10s.jp
 r1.ykimg.com
 rdsig.yahoo.co.jp
+read.images.worldlibrary.org
 resize.blogsys.jp
 reward.gree.net
 s.pximg.net
