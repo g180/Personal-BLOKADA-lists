@@ -167,8 +167,8 @@
 0.0.0.0 www.recre8now.co.uk
 0.0.0.0 www.xffiyaucxebto.com
 0.0.0.0 xc.muhnbc.cn
-0.0.0.0 xg.kmgfjc.cn
 0.0.0.0 xffiyaucxebto.com
+0.0.0.0 xg.kmgfjc.cn
 0.0.0.0 xn--wxtr9fwyxk9c.xn--io0a7i
 0.0.0.0 xn--xhq9mt12cf5v.art
 0.0.0.0 your-best-prize.life
