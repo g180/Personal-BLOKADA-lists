@@ -19,6 +19,7 @@ b.hatena.ne.jp
 b.st-hatena.com
 blog.hatena.ne.jp
 bloximages.newyork1.vip.townnews.com
+c799eb2b0cad47596bf7b1e050e83426.cdnext.stream.ne.jp
 cdn.blog.st-hatena.com
 cdn.content.prod.cms.msn.com
 cdn.jsdelivr.net
@@ -56,6 +57,7 @@ i.daily.jp
 i.gyazo.com
 i.ibb.co
 i.mycdn.me
+i.popincdn.com
 i.pximg.net
 i0.hdslb.com
 i1.hdslb.com
