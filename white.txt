@@ -142,6 +142,7 @@ static2.makeuseofimages.com
 static3.makeuseofimages.com
 stats.wwitv.com
 syndication.exosrv.com
+this.kiji.is
 thumbnails.opera.com
 thumbnails2.opera.com
 timetravel.mementoweb.org
