@@ -44,6 +44,7 @@ discordapp.page.link
 dmxleo.dailymotion.com
 downdetector.com
 dpm.demdex.net
+ei.phncdn.com
 firealpaca.com
 fnn.ismcdn.jp
 forum.xda-cdn.com
