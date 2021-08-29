@@ -10,6 +10,7 @@ api.recsys.opera.com
 apps.apple.com
 assets.adobedtm.com
 assets.bwbx.io
+assets.getpocket.com
 assets.hcaptcha.com
 assets.hearstapps.com
 assets.media-platform.com
