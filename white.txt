@@ -70,6 +70,7 @@ ichef.bbci.co.uk
 ift.tt
 image.jimcdn.com
 images.squarespace-cdn.com
+img.52swat.cn
 img.mixi.net
 img.topics.smt.news.goo.ne.jp
 imgcdn.pandora.tv
@@ -173,4 +174,5 @@ www.popmatters.com
 www.rapidvideo.com
 www.stat.go.jp
 www.youtube-nocookie.com
+xc.nu5ebnh.cn
 xda-developers.com
