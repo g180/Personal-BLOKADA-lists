@@ -112,6 +112,7 @@ player.h-cdn.com
 player.megaphone.fm
 player2.h-cdn.com
 playlist.megaphone.fm
+profile.line-scdn.net
 public.api.nicovideo.jp
 public.slidesharecdn.com
 r.r10s.jp
