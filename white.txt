@@ -23,6 +23,7 @@ blog.hatena.ne.jp
 bloximages.newyork1.vip.townnews.com
 buff.ly
 c799eb2b0cad47596bf7b1e050e83426.cdnext.stream.ne.jp
+ca-times.brightspotcdn.com
 cdn.blog.st-hatena.com
 cdn.content.prod.cms.msn.com
 cdn.jsdelivr.net
