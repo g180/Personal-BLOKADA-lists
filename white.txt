@@ -61,6 +61,7 @@ href.li
 i.daily.jp
 i.gyazo.com
 i.ibb.co
+i.insider.com
 i.mycdn.me
 i.popincdn.com
 i.pximg.net
