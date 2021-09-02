@@ -164,6 +164,7 @@ u.jimcdn.com
 unstats.un.org
 vanilla.futurecdn.net
 vaughnlive.tv
+videos-fms.jwpsrv.com
 vjs.zencdn.net
 weblio.hs.llnwd.net
 wpcomwidgets.com
