@@ -74,6 +74,7 @@ image.jimcdn.com
 images.squarespace-cdn.com
 img.52swat.cn
 img.mixi.net
+img.shields.io
 img.topics.smt.news.goo.ne.jp
 imgcdn.pandora.tv
 ip177732505.ahcdn.com
