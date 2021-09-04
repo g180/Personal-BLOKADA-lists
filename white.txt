@@ -64,6 +64,7 @@ i.gr-assets.com
 i.gyazo.com
 i.ibb.co
 i.insider.com
+i.kinja-img.com
 i.mycdn.me
 i.popincdn.com
 i.pximg.net
