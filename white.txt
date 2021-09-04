@@ -41,6 +41,7 @@ cloudflare-dns.com
 code.createjs.com
 content.invisioncic.com
 covers.zlibcdn2.com
+d.gr-assets.com
 di.phncdn.com
 digstatic.dmm.com
 discordapp.page.link
@@ -59,6 +60,7 @@ gree.jp
 gyazo.com
 href.li
 i.daily.jp
+i.gr-assets.com
 i.gyazo.com
 i.ibb.co
 i.insider.com
@@ -124,6 +126,7 @@ rdsig.yahoo.co.jp
 read.images.worldlibrary.org
 resize.blogsys.jp
 reward.gree.net
+s.gr-assets.com
 s.pximg.net
 s.w.org
 s1.dmcdn.net
