@@ -49,6 +49,7 @@ dmxleo.dailymotion.com
 downdetector.com
 dpm.demdex.net
 ei.phncdn.com
+embed.acast.com
 firealpaca.com
 fnn.ismcdn.jp
 forum.xda-cdn.com
