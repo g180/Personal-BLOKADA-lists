@@ -153,6 +153,8 @@
 0.0.0.0 setting.adzcore.com
 0.0.0.0 smartnews-ads.com
 0.0.0.0 sync.adaptv.advertising.com
+0.0.0.0 syndication.exosrv.com
+0.0.0.0 syndication.realsrv.com
 0.0.0.0 taboola.com
 0.0.0.0 udorothyjhfb.dip.jp
 0.0.0.0 unagi.amazon.com
@@ -163,6 +165,7 @@
 0.0.0.0 vtrk.ad.abema.io
 0.0.0.0 ww7.dix3.com
 0.0.0.0 www.dix3.com
+0.0.0.0 www.hqysonbyddwta.com
 0.0.0.0 www.okhfyyfgw.com
 0.0.0.0 www.recre8now.co.uk
 0.0.0.0 www.xffiyaucxebto.com
