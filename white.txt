@@ -60,6 +60,7 @@ glyph.medium.com
 graphql.api.dailymotion.com
 gree.jp
 gyazo.com
+hips.hearstapps.com
 href.li
 i.daily.jp
 i.gr-assets.com
@@ -118,6 +119,7 @@ play.app.goo.gl
 playatoms-pa.googleapis.com
 player.h-cdn.com
 player.megaphone.fm
+player.simplecast.com
 player2.h-cdn.com
 playlist.megaphone.fm
 profile.line-scdn.net
