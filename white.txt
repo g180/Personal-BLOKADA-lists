@@ -76,6 +76,7 @@ i.kinja-img.com
 i.mycdn.me
 i.popincdn.com
 i.pximg.net
+i.scdn.co
 i0.hdslb.com
 i1.hdslb.com
 i2.hdslb.com
