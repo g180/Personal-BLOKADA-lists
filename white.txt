@@ -26,6 +26,7 @@ c799eb2b0cad47596bf7b1e050e83426.cdnext.stream.ne.jp
 ca-times.brightspotcdn.com
 cdn.blog.st-hatena.com
 cdn.content.prod.cms.msn.com
+cdn.image.st-hatena.com
 cdn.jsdelivr.net
 cdn.pagesense.io
 cdn.pool.st-hatena.com
