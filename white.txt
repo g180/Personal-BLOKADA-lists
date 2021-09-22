@@ -139,6 +139,7 @@ read.images.worldlibrary.org
 resize.blogsys.jp
 reward.gree.net
 s.gr-assets.com
+s.hatena.ne.jp
 s.pximg.net
 s.w.org
 s1.dmcdn.net
