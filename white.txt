@@ -29,6 +29,7 @@ cdn.content.prod.cms.msn.com
 cdn.jsdelivr.net
 cdn.pagesense.io
 cdn.pool.st-hatena.com
+cdn.www.st-hatena.com
 cdn-ak.f.st-hatena.com
 cdn-client.medium.com
 cdn1.edgedatg.com
