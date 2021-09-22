@@ -32,6 +32,7 @@ cdn.pagesense.io
 cdn.pool.st-hatena.com
 cdn.www.st-hatena.com
 cdn-ak.f.st-hatena.com
+cdn-ak-scissors.favicon.st-hatena.com
 cdn-client.medium.com
 cdn1.edgedatg.com
 cdn1d-static-shared.phncdn.com
