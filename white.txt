@@ -78,6 +78,7 @@ i1.hdslb.com
 i2.hdslb.com
 ichef.bbci.co.uk
 ift.tt
+image.cnbcfm.com
 image.jimcdn.com
 images.squarespace-cdn.com
 img.52swat.cn
