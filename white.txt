@@ -138,6 +138,7 @@ r.r10s.jp
 r1.ykimg.com
 rdsig.yahoo.co.jp
 read.images.worldlibrary.org
+read.medium.com
 resize.blogsys.jp
 reward.gree.net
 s.gr-assets.com
