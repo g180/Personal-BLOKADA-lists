@@ -16,6 +16,7 @@ assets.getpocket.com
 assets.hcaptcha.com
 assets.hearstapps.com
 assets.media-platform.com
+assets.rebelmouse.io
 assets.squarespace.com
 assets.tumblr.com
 b.hatena.ne.jp
