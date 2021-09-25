@@ -23,6 +23,7 @@ assets.st-note.com
 assets.tumblr.com
 b.hatena.ne.jp
 b.st-hatena.com
+blog-imgs-145.fc2.com
 blog.hatena.ne.jp
 bloximages.newyork1.vip.townnews.com
 buff.ly
@@ -57,6 +58,7 @@ downdetector.com
 dpm.demdex.net
 ei.phncdn.com
 embed.acast.com
+epe.brightspotcdn.com
 error.fc2.com
 eu-images.contentstack.com
 feeder.acast.com
@@ -192,6 +194,7 @@ vaughnlive.tv
 videos-fms.jwpsrv.com
 vjs.zencdn.net
 weblio.hs.llnwd.net
+wgbh.brightspotcdn.com
 wpcomwidgets.com
 www.4shared.com
 www.addtoany.com
