@@ -19,6 +19,7 @@ assets.hearstapps.com
 assets.media-platform.com
 assets.rebelmouse.io
 assets.squarespace.com
+assets.st-note.com
 assets.tumblr.com
 b.hatena.ne.jp
 b.st-hatena.com
@@ -168,6 +169,7 @@ static.share-videos.se
 static.tumblr.com
 static.zdassets.com
 static0.makeuseofimages.com
+static01.nyt.com
 static1.dmcdn.net
 static1.makeuseofimages.com
 static1.squarespace.com
