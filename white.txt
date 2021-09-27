@@ -3,6 +3,7 @@
 d3c3cq33003psk.cloudfront.net
 a.fsdn.com
 a.gree.jp
+abuwjaawap.cloudimg.io
 afpbb.ismcdn.jp
 akm-img-a-in.tosshub.com
 analytics.twitter.com
@@ -92,6 +93,7 @@ image.cnbcfm.com
 image.jimcdn.com
 images.squarespace-cdn.com
 img.52swat.cn
+img.evbuc.com
 img.huffingtonpost.com
 img.mixi.net
 img.shields.io
@@ -126,6 +128,7 @@ open.spotify.com
 p.dmm.co.jp
 p.dmm.com
 parts.blog.livedoor.jp
+pbcdn1.podbean.com
 pdst.fm
 pics.dmm.co.jp
 pics.dmm.com
