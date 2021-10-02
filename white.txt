@@ -164,6 +164,7 @@ scontent-nrt1-1.xx.fbcdn.net
 script.mixi.net
 slot1-images.wikia.nocookie.net
 social-plugins.line.me
+sp-ao.shortpixel.ai
 ss.phncdn.com
 st.mycdn.me
 stat.ameba.jp
