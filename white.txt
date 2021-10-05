@@ -46,6 +46,7 @@ chrome.cloudflare-dns.com
 chtbl.com
 ci.appveyor.com
 ci.phncdn.com
+click.linksynergy.com
 cloudflare-dns.com
 code.createjs.com
 content.invisioncic.com
@@ -134,6 +135,7 @@ pdst.fm
 pics.dmm.co.jp
 pics.dmm.com
 platform.instagram.com
+platform.twitter.com
 play.app.goo.gl
 playatoms-pa.googleapis.com
 player.h-cdn.com
