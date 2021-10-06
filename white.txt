@@ -23,6 +23,7 @@ assets.rebelmouse.io
 assets.squarespace.com
 assets.st-note.com
 assets.tumblr.com
+audioboom.com
 b.hatena.ne.jp
 b.st-hatena.com
 blog-imgs-145.fc2.com
@@ -65,6 +66,7 @@ epe.brightspotcdn.com
 error.fc2.com
 eu-images.contentstack.com
 feeder.acast.com
+feeds.feedburner.com
 firealpaca.com
 fnn.ismcdn.jp
 forum.xda-cdn.com
