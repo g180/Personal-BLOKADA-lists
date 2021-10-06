@@ -18,6 +18,7 @@ assets.getpocket.com
 assets.hcaptcha.com
 assets.hearstapps.com
 assets.media-platform.com
+assets.omny.fm
 assets.pippa.io
 assets.rebelmouse.io
 assets.squarespace.com
