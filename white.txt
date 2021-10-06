@@ -87,6 +87,7 @@ i.pximg.net
 i.scdn.co
 i0.hdslb.com
 i1.hdslb.com
+i1.sndcdn.com
 i2.hdslb.com
 ichef.bbci.co.uk
 ift.tt
