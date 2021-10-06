@@ -192,6 +192,7 @@ static1.squarespace.com
 static2.makeuseofimages.com
 static3.makeuseofimages.com
 stats.wwitv.com
+storage.buzzsprout.com
 storage.ko-fi.com
 syndication.exosrv.com
 this.kiji.is
