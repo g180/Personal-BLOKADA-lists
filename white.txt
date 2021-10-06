@@ -145,6 +145,7 @@ player.h-cdn.com
 player.megaphone.fm
 player.simplecast.com
 player2.h-cdn.com
+playerservices.streamtheworld.com
 playlist.megaphone.fm
 profile.line-scdn.net
 public.api.nicovideo.jp
