@@ -18,6 +18,7 @@ assets.getpocket.com
 assets.hcaptcha.com
 assets.hearstapps.com
 assets.media-platform.com
+assets.pippa.io
 assets.rebelmouse.io
 assets.squarespace.com
 assets.st-note.com
@@ -163,6 +164,7 @@ s1.dmcdn.net
 s18671.pcdn.co
 s2.dmcdn.net
 s2.reutersmedia.net
+s3.castbox.fm
 s31242.pcdn.co
 s4.bcbits.com
 scontent-nrt1-1.xx.fbcdn.net
@@ -171,6 +173,7 @@ slot1-images.wikia.nocookie.net
 social-plugins.line.me
 sp-ao.shortpixel.ai
 ss.phncdn.com
+ssl-static.libsyn.com
 st.mycdn.me
 stat.ameba.jp
 static.codepen.io
