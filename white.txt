@@ -132,6 +132,7 @@ miro.medium.com
 navismithapis-cdn.com
 newassets.hcaptcha.com
 onesignal.com
+open.scdn.co
 open.spotify.com
 p.dmm.co.jp
 p.dmm.com
