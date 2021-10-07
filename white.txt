@@ -39,6 +39,7 @@ cdn.image.st-hatena.com
 cdn.jsdelivr.net
 cdn.pagesense.io
 cdn.pool.st-hatena.com
+cdn.profile-image.st-hatena.com
 cdn.www.st-hatena.com
 cdn-ak.f.st-hatena.com
 cdn-ak-scissors.favicon.st-hatena.com
@@ -209,6 +210,7 @@ twitter.app.link
 txxx.ahcdn.com
 u.jimcdn.com
 unstats.un.org
+usercss.blog.st-hatena.com
 vanilla.futurecdn.net
 vaughnlive.tv
 videos-fms.jwpsrv.com
