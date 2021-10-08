@@ -204,6 +204,7 @@ stats.wwitv.com
 storage.buzzsprout.com
 storage.ko-fi.com
 syndication.exosrv.com
+tb.sb-cd.com
 this.kiji.is
 thumbnails.opera.com
 thumbnails2.opera.com
