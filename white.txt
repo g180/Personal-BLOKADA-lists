@@ -21,6 +21,7 @@ assets.media-platform.com
 assets.omny.fm
 assets.pippa.io
 assets.rebelmouse.io
+assets.sb-cd.com
 assets.squarespace.com
 assets.st-note.com
 assets.tumblr.com
@@ -118,6 +119,7 @@ js.zohocdn.com
 jsoon.digitiminimi.com
 kai-you.net
 kao-h.assetsadobe3.com
+kissjav.com
 komachi.yomiuri.co.jp
 kyoto-np.ismcdn.jp
 lap-click.tr.line.me
