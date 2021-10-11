@@ -68,6 +68,7 @@ embed.acast.com
 epe.brightspotcdn.com
 error.fc2.com
 eu-images.contentstack.com
+f4.bcbits.com
 feeder.acast.com
 feeds.feedburner.com
 firealpaca.com
