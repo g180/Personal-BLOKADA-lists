@@ -159,6 +159,7 @@ playlist.megaphone.fm
 profile.line-scdn.net
 public.api.nicovideo.jp
 public.slidesharecdn.com
+qsc.fs.quoracdn.net
 r.r10s.jp
 r1.ykimg.com
 rdsig.yahoo.co.jp
