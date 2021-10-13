@@ -41,6 +41,7 @@ cdn.jsdelivr.net
 cdn.pagesense.io
 cdn.pool.st-hatena.com
 cdn.profile-image.st-hatena.com
+cdn.streamroot.io
 cdn.www.st-hatena.com
 cdn-ak.f.st-hatena.com
 cdn-ak-scissors.favicon.st-hatena.com
