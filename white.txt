@@ -25,6 +25,7 @@ assets.sb-cd.com
 assets.squarespace.com
 assets.st-note.com
 assets.tumblr.com
+assets-global.website-files.com
 audioboom.com
 b.hatena.ne.jp
 b.st-hatena.com
@@ -58,6 +59,7 @@ code.createjs.com
 content.invisioncic.com
 covers.zlibcdn2.com
 d.gr-assets.com
+d3e54v103j8qbb.cloudfront.net
 di.phncdn.com
 digstatic.dmm.com
 discordapp.page.link
