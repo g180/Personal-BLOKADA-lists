@@ -25,6 +25,7 @@ assets.sb-cd.com
 assets.squarespace.com
 assets.st-note.com
 assets.tumblr.com
+assets.website-files.com
 assets-global.website-files.com
 audioboom.com
 b.hatena.ne.jp
