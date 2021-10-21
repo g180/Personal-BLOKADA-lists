@@ -184,6 +184,7 @@ s31242.pcdn.co
 s4.bcbits.com
 scontent-nrt1-1.xx.fbcdn.net
 script.mixi.net
+siteassets.parastorage.com
 slot1-images.wikia.nocookie.net
 social-plugins.line.me
 sp-ao.shortpixel.ai
@@ -198,6 +199,7 @@ static.mytuner.mobi
 static.parastorage.com
 static.share-videos.se
 static.tumblr.com
+static.wixstatic.com
 static.zdassets.com
 static0.makeuseofimages.com
 static01.nyt.com
@@ -223,6 +225,7 @@ unstats.un.org
 usercss.blog.st-hatena.com
 vanilla.futurecdn.net
 vaughnlive.tv
+video.wixstatic.com
 videos-fms.jwpsrv.com
 vjs.zencdn.net
 weblio.hs.llnwd.net
