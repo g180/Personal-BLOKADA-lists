@@ -54,6 +54,7 @@ chrome.cloudflare-dns.com
 chtbl.com
 ci.appveyor.com
 ci.phncdn.com
+clap.fc2.com
 click.linksynergy.com
 cloudflare-dns.com
 code.createjs.com
