@@ -72,6 +72,7 @@ dmxleo.dailymotion.com
 downdetector.com
 dpm.demdex.net
 ei.phncdn.com
+eiga.k-img.com
 embed.acast.com
 epe.brightspotcdn.com
 error.fc2.com
