@@ -65,6 +65,7 @@ content.invisioncic.com
 covers.zlibcdn2.com
 d.gr-assets.com
 d3e54v103j8qbb.cloudfront.net
+data.cnn.com
 di.phncdn.com
 digstatic.dmm.com
 discordapp.page.link
@@ -176,6 +177,7 @@ r1.ykimg.com
 rdsig.yahoo.co.jp
 read.images.worldlibrary.org
 read.medium.com
+registry.api.cnn.io
 resize.blogsys.jp
 reward.gree.net
 s.gr-assets.com
