@@ -166,6 +166,7 @@ player.simplecast.com
 player2.h-cdn.com
 playerservices.streamtheworld.com
 playlist.megaphone.fm
+preview.redd.it
 profile.line-scdn.net
 public.api.nicovideo.jp
 public.slidesharecdn.com
