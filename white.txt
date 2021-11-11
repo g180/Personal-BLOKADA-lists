@@ -153,6 +153,7 @@ open.scdn.co
 open.spotify.com
 p.dmm.co.jp
 p.dmm.com
+pardot.csis.org
 parts.blog.livedoor.jp
 pbcdn1.podbean.com
 pdst.fm
