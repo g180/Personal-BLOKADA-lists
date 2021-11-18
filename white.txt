@@ -12,6 +12,7 @@ analytics.twitter.com
 api.cxense.com
 api.iterable.com
 api.recsys.opera.com
+app-data.gcs.trstatic.net
 appleid.cdn-apple.com
 apps.apple.com
 assets.adobedtm.com
