@@ -112,6 +112,7 @@ ichef.bbci.co.uk
 ift.tt
 image.cnbcfm.com
 image.jimcdn.com
+images.cwtv.com
 images.daznservices.com
 images.squarespace-cdn.com
 img.52swat.cn
@@ -140,6 +141,7 @@ lap-click.tr.line.me
 live.mrf.io
 live.staticflickr.com
 livedoor.blogimg.jp
+livevideostatus.sinclairstoryline.com
 log.mmstat.com
 logmi.jp
 ma422-r.analytics.edgekey.net
@@ -255,6 +257,7 @@ www.brightcove.com
 www.eater.com
 www.gstatic.com
 www.kissmetrics.io
+www.lightboxcdn.com
 www.mywot.com
 www.popmatters.com
 www.rapidvideo.com
