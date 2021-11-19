@@ -214,6 +214,7 @@ static-16.sinclairstoryline.com
 static-17.sinclairstoryline.com
 static-19.sinclairstoryline.com
 static-20.sinclairstoryline.com
+static-21.sinclairstoryline.com
 static-22.sinclairstoryline.com
 static-31.sinclairstoryline.com
 static.codepen.io
