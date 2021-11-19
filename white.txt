@@ -15,6 +15,7 @@ api.recsys.opera.com
 app-data.gcs.trstatic.net
 appleid.cdn-apple.com
 apps.apple.com
+assets-global.website-files.com
 assets.adobedtm.com
 assets.bwbx.io
 assets.getpocket.com
@@ -29,7 +30,6 @@ assets.squarespace.com
 assets.st-note.com
 assets.tumblr.com
 assets.website-files.com
-assets-global.website-files.com
 audioboom.com
 b.hatena.ne.jp
 b.st-hatena.com
@@ -206,6 +206,9 @@ ss.phncdn.com
 ssl-static.libsyn.com
 st.mycdn.me
 stat.ameba.jp
+static-17.sinclairstoryline.com
+static-19.sinclairstoryline.com
+static-20.sinclairstoryline.com
 static.codepen.io
 static.fc2.com
 static.gearspace.com
