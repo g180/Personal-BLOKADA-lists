@@ -41,6 +41,9 @@ c.stat100.ameba.jp
 c799eb2b0cad47596bf7b1e050e83426.cdnext.stream.ne.jp
 ca-times.brightspotcdn.com
 cdj-dap.s3-ap-northeast-1.amazonaws.com
+cdn-ak.f.st-hatena.com
+cdn-ak-scissors.favicon.st-hatena.com
+cdn-client.medium.com
 cdn.blog.st-hatena.com
 cdn.content.prod.cms.msn.com
 cdn.image.st-hatena.com
@@ -50,9 +53,6 @@ cdn.pool.st-hatena.com
 cdn.profile-image.st-hatena.com
 cdn.streamroot.io
 cdn.www.st-hatena.com
-cdn-ak.f.st-hatena.com
-cdn-ak-scissors.favicon.st-hatena.com
-cdn-client.medium.com
 cdn1.edgedatg.com
 cdn1d-static-shared.phncdn.com
 chrome.cloudflare-dns.com
