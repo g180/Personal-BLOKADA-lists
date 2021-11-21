@@ -18,6 +18,7 @@ apps.apple.com
 assets-global.website-files.com
 assets.adobedtm.com
 assets.bwbx.io
+assets.calendly.com
 assets.getpocket.com
 assets.hcaptcha.com
 assets.hearstapps.com
