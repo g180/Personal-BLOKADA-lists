@@ -114,6 +114,7 @@ ichef.bbci.co.uk
 ift.tt
 image.cnbcfm.com
 image.jimcdn.com
+image.simplecastcdn.com
 images.cwtv.com
 images.daznservices.com
 images.squarespace-cdn.com
