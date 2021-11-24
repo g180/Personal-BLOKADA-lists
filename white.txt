@@ -190,6 +190,7 @@ rdsig.yahoo.co.jp
 read.images.worldlibrary.org
 read.medium.com
 registry.api.cnn.io
+regmedia.co.uk
 resize.blogsys.jp
 reward.gree.net
 s.gr-assets.com
