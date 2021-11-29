@@ -250,6 +250,7 @@ this.kiji.is
 thumbnails.opera.com
 thumbnails2.opera.com
 timetravel.mementoweb.org
+tools.applemediaservices.com
 trafficnews.jp
 twitter.app.link
 txxx.ahcdn.com
@@ -264,6 +265,7 @@ vjs.zencdn.net
 weblio.hs.llnwd.net
 wgbh.brightspotcdn.com
 wpcomwidgets.com
+ws-fe.amazon-adsystem.com 
 www.4shared.com
 www.addtoany.com
 www.appsupport.jp
