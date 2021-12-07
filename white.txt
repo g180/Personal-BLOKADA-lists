@@ -72,6 +72,7 @@ code.createjs.com
 consent.trustarc.com
 content.invisioncic.com
 covers.zlibcdn2.com
+cpwebassets.codepen.io
 d.gr-assets.com
 d3e54v103j8qbb.cloudfront.net
 data.cnn.com
