@@ -256,6 +256,7 @@ thumbnails2.opera.com
 timetravel.mementoweb.org
 tools.applemediaservices.com
 trafficnews.jp
+twemoji.maxcdn.com
 twitter.app.link
 twitter.countoon.com
 txxx.ahcdn.com
