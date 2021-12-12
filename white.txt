@@ -1,6 +1,7 @@
 64.media.tumblr.com
 79423.analytics.edgekey.net
 d3c3cq33003psk.cloudfront.net
+a.espncdn.com
 a.fsdn.com
 a.gree.jp
 aadcdn.msauth.net
