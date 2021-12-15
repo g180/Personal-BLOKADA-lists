@@ -129,6 +129,7 @@ images.daznservices.com
 images.squarespace-cdn.com
 img.52swat.cn
 img.evbuc.com
+img.haarets.co.il
 img.huffingtonpost.com
 img.mixi.net
 img.shields.io
