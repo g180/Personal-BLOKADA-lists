@@ -131,6 +131,7 @@ img.52swat.cn
 img.evbuc.com
 img.haarets.co.il
 img.huffingtonpost.com
+img.medscapestatic.com
 img.mixi.net
 img.shields.io
 img.topics.smt.news.goo.ne.jp
