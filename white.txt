@@ -65,6 +65,7 @@ cdn1.edgedatg.com
 cdn1d-static-shared.phncdn.com
 chrome.cloudflare-dns.com
 chtbl.com
+ci-ph.rdtcdn.com
 ci.appveyor.com
 ci.phncdn.com
 clap.fc2.com
