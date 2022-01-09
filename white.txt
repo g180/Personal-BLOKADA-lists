@@ -85,6 +85,7 @@ dmxleo.dailymotion.com
 downdetector.com
 dpm.demdex.net
 ei.phncdn.com
+ei.rdtcdn.com
 eiga.k-img.com
 embed.acast.com
 epe.brightspotcdn.com
