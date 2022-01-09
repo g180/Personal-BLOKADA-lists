@@ -85,6 +85,7 @@ discordapp.page.link
 dmxleo.dailymotion.com
 downdetector.com
 dpm.demdex.net
+ei-ph.rdtcdn.com
 ei.phncdn.com
 ei.rdtcdn.com
 eiga.k-img.com
