@@ -243,6 +243,7 @@ static.mytuner.mobi
 static.parastorage.com
 static.share-videos.se
 static.tumblr.com
+static.typepad.com
 static.wixstatic.com
 static.zdassets.com
 static0.makeuseofimages.com
