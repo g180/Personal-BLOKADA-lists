@@ -163,6 +163,7 @@ log.mmstat.com
 logmi.jp
 ma422-r.analytics.edgekey.net
 manifest.prod.boltdns.net
+media.discordapp.net
 media.giphy.com
 media.socastsrm.com
 media.springernature.com
