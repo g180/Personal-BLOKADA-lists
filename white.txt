@@ -102,6 +102,7 @@ fnn.ismcdn.jp
 forum.xda-cdn.com
 gendai.ismcdn.jp
 github.githubassets.com
+global-uploads.webflow.com
 glyph.medium.com
 graphql.api.dailymotion.com
 gree.jp
