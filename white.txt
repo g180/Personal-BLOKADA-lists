@@ -145,12 +145,13 @@ img1.kakaku.k-img.com
 imgcdn.pandora.tv
 ip177732505.ahcdn.com
 ip177732610.ahcdn.com
-jprime.ismcdn.jp
 is1-ssl.mzstatic.com
 is2-ssl.mzstatic.com
 is3-ssl.mzstatic.com
 is4-ssl.mzstatic.com
 is5-ssl.mzstatic.com
+jbpress.ismcdn.jp
+jprime.ismcdn.jp
 js.zohocdn.com
 jsoon.digitiminimi.com
 kai-you.net
