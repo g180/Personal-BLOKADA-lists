@@ -228,6 +228,7 @@ script.mixi.net
 sf16-muse-va.ibytedtos.com
 siteassets.parastorage.com
 slot1-images.wikia.nocookie.net
+smartplugin.youbora.com
 social-plugins.line.me
 sp-ao.shortpixel.ai
 ss.phncdn.com
