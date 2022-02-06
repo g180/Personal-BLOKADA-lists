@@ -39,6 +39,7 @@ betanews.com
 blog-imgs-145.fc2.com
 blog.hatena.ne.jp
 bloximages.newyork1.vip.townnews.com
+browser.sentry-cdn.com
 buff.ly
 c.stat100.ameba.jp
 c799eb2b0cad47596bf7b1e050e83426.cdnext.stream.ne.jp
