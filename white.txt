@@ -1,6 +1,6 @@
 64.media.tumblr.com
 79423.analytics.edgekey.net
-d3c3cq33003psk.cloudfront.net
+a.academia-assets.com
 a.espncdn.com
 a.fsdn.com
 a.gree.jp
@@ -78,6 +78,7 @@ content.invisioncic.com
 covers.zlibcdn2.com
 cpwebassets.codepen.io
 d.gr-assets.com
+d3c3cq33003psk.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
 data.cnn.com
 di.phncdn.com
