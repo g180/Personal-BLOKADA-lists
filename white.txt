@@ -156,6 +156,7 @@ is4-ssl.mzstatic.com
 is5-ssl.mzstatic.com
 jbpress.ismcdn.jp
 jprime.ismcdn.jp
+js-cdn.music.apple.com
 js.zohocdn.com
 jsoon.digitiminimi.com
 kai-you.net
