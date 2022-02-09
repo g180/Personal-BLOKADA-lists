@@ -145,6 +145,7 @@ img.shields.io
 img.topics.smt.news.goo.ne.jp
 img1.kakaku.k-img.com
 imgcdn.pandora.tv
+internet.blogmura.com
 ip177732505.ahcdn.com
 ip177732610.ahcdn.com
 is1-ssl.mzstatic.com
