@@ -77,6 +77,7 @@ consent.trustarc.com
 content.invisioncic.com
 covers.zlibcdn2.com
 cpwebassets.codepen.io
+d.getpocket.com
 d.gr-assets.com
 d3c3cq33003psk.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
