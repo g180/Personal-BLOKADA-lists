@@ -234,6 +234,7 @@ s31242.pcdn.co
 s4.bcbits.com
 scontent-nrt1-1.xx.fbcdn.net
 script.mixi.net
+secure-dcdn.cdn.nimg.jp
 sf16-muse-va.ibytedtos.com
 siteassets.parastorage.com
 slot1-images.wikia.nocookie.net
