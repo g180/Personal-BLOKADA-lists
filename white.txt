@@ -115,6 +115,7 @@ gyazo.com
 hips.hearstapps.com
 href.li
 i.daily.jp
+i.doodcdn.com
 i.gr-assets.com
 i.gyazo.com
 i.ibb.co
@@ -138,6 +139,7 @@ images.daznservices.com
 images.squarespace-cdn.com
 img.52swat.cn
 img.creativemark.co.uk
+img.doodcdn.com
 img.evbuc.com
 img.haarets.co.il
 img.huffingtonpost.com
