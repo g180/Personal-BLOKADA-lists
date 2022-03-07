@@ -300,6 +300,7 @@ video.wixstatic.com
 videos-fms.jwpsrv.com
 vjs.zencdn.net
 weblio.hs.llnwd.net
+wedge.ismcdn.jp
 wgbh.brightspotcdn.com
 wpcomwidgets.com
 ws-fe.amazon-adsystem.com 
