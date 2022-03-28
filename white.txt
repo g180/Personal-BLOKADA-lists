@@ -21,6 +21,7 @@ assets-global.website-files.com
 assets.adobedtm.com
 assets.bwbx.io
 assets.calendly.com
+assets.cdn.watchdisneyfe.com
 assets.getpocket.com
 assets.hcaptcha.com
 assets.hearstapps.com
@@ -60,6 +61,7 @@ cdn.jsdelivr.net
 cdn.pagesense.io
 cdn.pool.st-hatena.com
 cdn.profile-image.st-hatena.com
+cdn.registerdisney.go.com
 cdn.streamroot.io
 cdn.tinypass.com
 cdn.www.st-hatena.com
