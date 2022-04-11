@@ -35,6 +35,7 @@ assets.st-note.com
 assets.tumblr.com
 assets.website-files.com
 audioboom.com
+awscc3001.r18.com
 b.hatena.ne.jp
 b.st-hatena.com
 betanews.com
@@ -200,6 +201,7 @@ pbs.twimg.com
 pdst.fm
 pics.dmm.co.jp
 pics.dmm.com
+pics.r18.com
 platform.instagram.com
 platform.twitter.com
 play.app.goo.gl
