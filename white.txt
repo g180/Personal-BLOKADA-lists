@@ -17,6 +17,7 @@ api.recsys.opera.com
 app-data.gcs.trstatic.net
 appleid.cdn-apple.com
 apps.apple.com
+asg.phukienthoitranggiare.com
 assets-global.website-files.com
 assets.adobedtm.com
 assets.bwbx.io
