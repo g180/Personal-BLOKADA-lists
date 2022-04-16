@@ -53,11 +53,12 @@ cdn-ak-scissors.favicon.st-hatena.com
 cdn-client.medium.com
 cdn-css.socastsrm.com
 cdn-images-1.medium.com
+cdn-js.socastsrm.com
 cdn-static-1.medium.com
 cdn.blog.st-hatena.com
 cdn.content.prod.cms.msn.com
+cdn.cxense.com
 cdn.image.st-hatena.com
-cdn-js.socastsrm.com
 cdn.jsdelivr.net
 cdn.pagesense.io
 cdn.pool.st-hatena.com
