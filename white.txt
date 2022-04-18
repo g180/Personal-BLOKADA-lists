@@ -271,6 +271,7 @@ static.share-videos.se
 static.stands4.com
 static.tumblr.com
 static.typepad.com
+static.ukrinform.com
 static.wixstatic.com
 static.zdassets.com
 static0.makeuseofimages.com
