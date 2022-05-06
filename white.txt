@@ -310,6 +310,7 @@ vjs.zencdn.net
 weblio.hs.llnwd.net
 wedge.ismcdn.jp
 wgbh.brightspotcdn.com
+wpcdn.us-east-1.vip.tn-cloud.net
 wpcomwidgets.com
 ws-fe.amazon-adsystem.com 
 www.4shared.com
