@@ -10,6 +10,7 @@ abuwjaawap.cloudimg.io
 afpbb.ismcdn.jp
 akm-img-a-in.tosshub.com
 americanmilitarynews.com
+amp.akamaized.net
 analytics.twitter.com
 api.cxense.com
 api.iterable.com
