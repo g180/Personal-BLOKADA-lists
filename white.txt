@@ -143,6 +143,7 @@ image.jimcdn.com
 image.simplecastcdn.com
 images.cwtv.com
 images.daznservices.com
+images.immediate.co.uk
 images.squarespace-cdn.com
 img.52swat.cn
 img.creativemark.co.uk
@@ -187,6 +188,7 @@ ma422-r.analytics.edgekey.net
 manifest.prod.boltdns.net
 media.discordapp.net
 media.giphy.com
+media.immediate.co.uk
 media.socastsrm.com
 media.springernature.com
 media.wnyc.org
