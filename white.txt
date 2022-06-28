@@ -196,6 +196,7 @@ media.wnyc.org
 miro.medium.com
 navismithapis-cdn.com
 newassets.hcaptcha.com
+newsdig.ismcdn.jp
 onesignal.com
 open.scdn.co
 open.spotify.com
