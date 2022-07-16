@@ -208,6 +208,7 @@ parts.blog.livedoor.jp
 pbcdn1.podbean.com
 pbs.twimg.com
 pdst.fm
+pic.7mmtv.tv
 pics.dmm.co.jp
 pics.dmm.com
 pics.r18.com
