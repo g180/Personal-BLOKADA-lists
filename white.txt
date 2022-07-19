@@ -148,6 +148,7 @@ images.immediate.co.uk
 images.squarespace-cdn.com
 img.52swat.cn
 img.creativemark.co.uk
+img.doodcdn.co
 img.doodcdn.com
 img.evbuc.com
 img.haarets.co.il
