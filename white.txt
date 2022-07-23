@@ -302,6 +302,7 @@ storage.proboards.com
 syndication.exosrv.com
 tb.sb-cd.com
 this.kiji.is
+thumb.fvs.io
 thumbnails.opera.com
 thumbnails2.opera.com
 times-abema.ismcdn.jp
