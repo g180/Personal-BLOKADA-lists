@@ -28,6 +28,7 @@ assets.hcaptcha.com
 assets.hearstapps.com
 assets.media-platform.com
 assets.omny.fm
+assets.pinterest.com
 assets.pippa.io
 assets.rebelmouse.io
 assets.sb-cd.com
