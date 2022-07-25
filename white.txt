@@ -105,6 +105,7 @@ embed.acast.com
 epe.brightspotcdn.com
 error.fc2.com
 eu-images.contentstack.com
+eu.static.mega.co.nz
 ewscripps.brightspotcdn.com
 external-preview.redd.it
 f4.bcbits.com
