@@ -201,6 +201,7 @@ media.socastsrm.com
 media.springernature.com
 media.wnyc.org
 miro.medium.com
+monorail-edge.shopifysvc.com
 navismithapis-cdn.com
 newassets.hcaptcha.com
 newsdig.ismcdn.jp
@@ -259,6 +260,7 @@ scontent-nrt1-1.xx.fbcdn.net
 script.mixi.net
 secure-dcdn.cdn.nimg.jp
 sf16-muse-va.ibytedtos.com
+sibforms.com
 siteassets.parastorage.com
 slot1-images.wikia.nocookie.net
 smartcdn.gprod.postmedia.digital
