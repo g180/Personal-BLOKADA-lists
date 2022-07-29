@@ -160,6 +160,7 @@ img.huffingtonpost.com
 img.medscapestatic.com
 img.mixi.net
 img.shields.io
+img.tfd.com
 img.topics.smt.news.goo.ne.jp
 img1.kakaku.k-img.com
 imgcdn.pandora.tv
