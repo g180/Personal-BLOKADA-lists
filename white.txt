@@ -7,6 +7,7 @@ a.gree.jp
 aadcdn.msauth.net
 aadcdn.msftauth.net
 abuwjaawap.cloudimg.io
+access.mp.lura.live
 afpbb.ismcdn.jp
 akm-img-a-in.tosshub.com
 americanmilitarynews.com
@@ -313,6 +314,7 @@ thumbnails.opera.com
 thumbnails2.opera.com
 times-abema.ismcdn.jp
 timetravel.mementoweb.org
+tkx.mp.lura.live
 tools.applemediaservices.com
 trafficnews.jp
 twemoji.maxcdn.com
@@ -327,6 +329,7 @@ vaughnlive.tv
 video.wixstatic.com
 videos-fms.jwpsrv.com
 vjs.zencdn.net
+w3.mp.lura.live
 weblio.hs.llnwd.net
 wedge.ismcdn.jp
 wgbh.brightspotcdn.com
