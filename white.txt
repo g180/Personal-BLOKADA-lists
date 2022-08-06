@@ -231,6 +231,7 @@ player2.h-cdn.com
 playerservices.streamtheworld.com
 playlist.megaphone.fm
 preview.redd.it
+production-cmp.isgprivacy.cbsi.com
 profile.line-scdn.net
 public.api.nicovideo.jp
 public.slidesharecdn.com
