@@ -200,6 +200,7 @@ manifest.prod.boltdns.net
 media.discordapp.net
 media.giphy.com
 media.immediate.co.uk
+media.loom-app.com
 media.socastsrm.com
 media.springernature.com
 media.wnyc.org
