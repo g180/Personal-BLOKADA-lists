@@ -95,6 +95,7 @@ d3e54v103j8qbb.cloudfront.net
 data.cnn.com
 di.phncdn.com
 digstatic.dmm.com
+dimages.cds.amcn.com
 discordapp.page.link
 dmxleo.dailymotion.com
 downdetector.com
