@@ -105,6 +105,7 @@ ei.phncdn.com
 ei.rdtcdn.com
 eiga.k-img.com
 embed.acast.com
+encore.scdn.co
 epe.brightspotcdn.com
 error.fc2.com
 eu-images.contentstack.com
@@ -213,6 +214,7 @@ newsdig.ismcdn.jp
 onesignal.com
 open.scdn.co
 open.spotify.com
+open.spotifycdn.com
 p.dmm.co.jp
 p.dmm.com
 p16-sign-sg.tiktokcdn.com
