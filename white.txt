@@ -195,6 +195,7 @@ kai-you.net
 kao-h.assetsadobe3.com
 kissjav.com
 komachi.yomiuri.co.jp
+kosmos-prod.react.gammacdn.com
 kyoto-np.ismcdn.jp
 lap-click.tr.line.me
 lf16-tiktok-web.ttwstatic.com
@@ -312,6 +313,7 @@ static.ukrinform.com
 static.wixstatic.com
 static.zdassets.com
 static0.makeuseofimages.com
+static01-cms-fame.gammacdn.com
 static01.nyt.com
 static1.dmcdn.net
 static1.makeuseofimages.com
