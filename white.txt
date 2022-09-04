@@ -168,6 +168,12 @@ img.mixi.net
 img.shields.io
 img.tfd.com
 img.topics.smt.news.goo.ne.jp
+img1.bdbphotos.com
+img2.bdbphotos.com
+img3.bdbphotos.com
+img4.bdbphotos.com
+img5.bdbphotos.com
+img6.bdbphotos.com
 img1.kakaku.k-img.com
 imgcdn.pandora.tv
 internet.blogmura.com
