@@ -74,6 +74,7 @@ cdn.www.st-hatena.com
 cdn1.edgedatg.com
 cdn1d-static-shared.phncdn.com
 cdn2.downdetector.com
+cdn4.vscdns.com
 chrome.cloudflare-dns.com
 chtbl.com
 ci-ph.rdtcdn.com
