@@ -76,6 +76,8 @@ cdn1.edgedatg.com
 cdn1d-static-shared.phncdn.com
 cdn2.downdetector.com
 cdn4.vscdns.com
+cdn5-static.motherlessmedia.com
+cdn5-thumbs.motherlessmedia.com
 chrome.cloudflare-dns.com
 chtbl.com
 ci-ph.rdtcdn.com
@@ -159,8 +161,6 @@ images.cwtv.com
 images.daznservices.com
 images.immediate.co.uk
 images.squarespace-cdn.com
-img-hw.xnxx-cdn.com
-img-l3.xnxx-cdn.com
 img.52swat.cn
 img.creativemark.co.uk
 img.doodcdn.co
@@ -304,7 +304,6 @@ static-21.sinclairstoryline.com
 static-22.sinclairstoryline.com
 static-31.sinclairstoryline.com
 static-assets.clubhouseapi.com
-static-hw.xnxx-cdn.com
 static.codepen.io
 static.fc2.com
 static.gearspace.com
