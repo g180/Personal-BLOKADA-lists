@@ -159,6 +159,8 @@ images.cwtv.com
 images.daznservices.com
 images.immediate.co.uk
 images.squarespace-cdn.com
+img-hw.xnxx-cdn.com
+img-l3.xnxx-cdn.com
 img.52swat.cn
 img.creativemark.co.uk
 img.doodcdn.co
