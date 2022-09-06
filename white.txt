@@ -307,6 +307,7 @@ static.gearspace.com
 static.mytuner.mobi
 static.parastorage.com
 static.share-videos.se
+static.spankbang.com
 static.stands4.com
 static.tumblr.com
 static.typepad.com
@@ -326,6 +327,7 @@ storage.buzzsprout.com
 storage.ko-fi.com
 storage.proboards.com
 syndication.exosrv.com
+tb-lb.sb-cd.com
 tb.sb-cd.com
 this.kiji.is
 thumb.fvs.io
