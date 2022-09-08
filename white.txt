@@ -350,6 +350,7 @@ vaughnlive.tv
 video.wixstatic.com
 videos-fms.jwpsrv.com
 vjs.zencdn.net
+w1.cdn.setlistfm.com
 w3.mp.lura.live
 weblio.hs.llnwd.net
 wedge.ismcdn.jp
