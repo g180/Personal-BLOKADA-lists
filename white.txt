@@ -94,6 +94,7 @@ covers.zlibcdn2.com
 cpwebassets.codepen.io
 d.getpocket.com
 d.gr-assets.com
+d1wp6m56sqw74a.cloudfront.net
 d3c3cq33003psk.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
 data.cnn.com
