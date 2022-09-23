@@ -302,6 +302,7 @@ static-19.sinclairstoryline.com
 static-20.sinclairstoryline.com
 static-21.sinclairstoryline.com
 static-22.sinclairstoryline.com
+static-3.bitchute.com
 static-31.sinclairstoryline.com
 static-assets.clubhouseapi.com
 static.codepen.io
