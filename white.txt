@@ -290,6 +290,7 @@ smartcdn.gprod.postmedia.digital
 smartplugin.youbora.com
 social-plugins.line.me
 sp-ao.shortpixel.ai
+sp.rmbl.ws
 ss.phncdn.com
 ssl-static.libsyn.com
 ssl.pstatic.net
