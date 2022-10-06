@@ -309,6 +309,7 @@ static.fc2.com
 static.gearspace.com
 static.mytuner.mobi
 static.parastorage.com
+static.roland.com
 static.share-videos.se
 static.stands4.com
 static.tumblr.com
