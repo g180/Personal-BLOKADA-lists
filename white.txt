@@ -63,6 +63,7 @@ cdn.content.prod.cms.msn.com
 cdn.cxense.com
 cdn.image.st-hatena.com
 cdn.jsdelivr.net
+cdn.mos.cms.futurecdn.net
 cdn.pagesense.io
 cdn.pool.st-hatena.com
 cdn.profile-image.st-hatena.com
