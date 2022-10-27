@@ -78,6 +78,7 @@ cdn2.downdetector.com
 cdn4.vscdns.com
 cdn5-static.motherlessmedia.com
 cdn5-thumbs.motherlessmedia.com
+cfl.dropboxstatic.com
 chrome.cloudflare-dns.com
 chronicle.brightspotcdn.com
 chtbl.com
