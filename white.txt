@@ -122,6 +122,7 @@ ewscripps.brightspotcdn.com
 external-preview.redd.it
 f4.bcbits.com
 farm3.static.flickr.com
+fastfs1.podbean.com
 feedburner.google.com
 feeder.acast.com
 feeds.feedburner.com
