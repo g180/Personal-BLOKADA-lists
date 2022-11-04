@@ -145,6 +145,7 @@ i.doodcdn.com
 i.gr-assets.com
 i.gyazo.com
 i.ibb.co
+i.iheart.com
 i.insider.com
 i.kinja-img.com
 i.mycdn.me
@@ -312,6 +313,7 @@ static-assets.clubhouseapi.com
 static.codepen.io
 static.fc2.com
 static.gearspace.com
+static.inferno.iheart.com
 static.mytuner.mobi
 static.parastorage.com
 static.roland.com
