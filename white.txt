@@ -345,6 +345,7 @@ thumbnails2.opera.com
 times-abema.ismcdn.jp
 timetravel.mementoweb.org
 tkx.mp.lura.live
+tokyo-sports.ismcdn.jp
 tools.applemediaservices.com
 trafficnews.jp
 twemoji.maxcdn.com
