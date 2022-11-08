@@ -129,6 +129,7 @@ feeds.feedburner.com
 firealpaca.com
 fki.ismcdn.jp
 fnn.ismcdn.jp
+fonts.bunny.net
 forum.xda-cdn.com
 gendai.ismcdn.jp
 github.githubassets.com
