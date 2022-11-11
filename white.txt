@@ -359,6 +359,7 @@ uploads-ssl.webflow.com
 usercss.blog.st-hatena.com
 vanilla.futurecdn.net
 vaughnlive.tv
+vd.trinitymedia.ai
 video.wixstatic.com
 videos-fms.jwpsrv.com
 vjs.zencdn.net
