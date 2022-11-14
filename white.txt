@@ -45,6 +45,7 @@ betanews.com
 blog-imgs-145.fc2.com
 blog.hatena.ne.jp
 bloximages.newyork1.vip.townnews.com
+bostonglobe-prod.cdn.arcpublishing.com
 browser.sentry-cdn.com
 buff.ly
 c.stat100.ameba.jp
