@@ -102,6 +102,7 @@ d1wp6m56sqw74a.cloudfront.net
 d3c3cq33003psk.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
 data.cnn.com
+dc8xl0ndzn2cb.cloudfront.net
 di.phncdn.com
 digstatic.dmm.com
 dimages.cds.amcn.com
@@ -383,6 +384,7 @@ www.kissmetrics.io
 www.lightboxcdn.com
 www.mywot.com
 www.popmatters.com
+www.queryly.com
 www.rapidvideo.com
 www.stat.go.jp
 www.youtube-nocookie.com
