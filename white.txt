@@ -59,6 +59,7 @@ cdn-css.socastsrm.com
 cdn-images-1.medium.com
 cdn-js.socastsrm.com
 cdn-static-1.medium.com
+cdn.ampproject.org
 cdn.blog.st-hatena.com
 cdn.content.prod.cms.msn.com
 cdn.cxense.com
