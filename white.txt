@@ -221,6 +221,7 @@ log.mmstat.com
 logmi.jp
 ma422-r.analytics.edgekey.net
 manifest.prod.boltdns.net
+media-01.creema.net
 media.discordapp.net
 media.giphy.com
 media.immediate.co.uk
