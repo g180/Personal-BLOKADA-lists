@@ -213,6 +213,7 @@ kosmos-prod.react.gammacdn.com
 kyoto-np.ismcdn.jp
 lap-click.tr.line.me
 lf16-tiktok-web.ttwstatic.com
+licensebuttons.net
 live.fc2.com
 live.mrf.io
 live.staticflickr.com
