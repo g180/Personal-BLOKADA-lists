@@ -71,6 +71,7 @@ cdn.pagesense.io
 cdn.pool.st-hatena.com
 cdn.profile-image.st-hatena.com
 cdn.registerdisney.go.com
+cdn.shopify.com
 cdn.shortpixel.ai
 cdn.streamroot.io
 cdn.tinypass.com
