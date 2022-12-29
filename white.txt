@@ -289,6 +289,7 @@ s.pximg.net
 s.w.org
 s1.dmcdn.net
 s18671.pcdn.co
+s2.bunnycdn.ru
 s2.dmcdn.net
 s2.reutersmedia.net
 s3.castbox.fm
