@@ -136,6 +136,7 @@
 0.0.0.0 full3bwhdd1aog.changeip.net
 0.0.0.0 funwarcab.club
 0.0.0.0 graph.facebook.com
+0.0.0.0 iech6ie1gee2sheifahphah7nuh9eo7a.techinsight.jp
 0.0.0.0 italiangarlic.it
 0.0.0.0 jqyde7msbro2.com
 0.0.0.0 js.revsci.net
