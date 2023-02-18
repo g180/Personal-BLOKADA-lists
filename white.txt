@@ -92,6 +92,7 @@ ci.phncdn.com
 clap.fc2.com
 click.linksynergy.com
 cloudflare-dns.com
+cm-beacon.nakanohito.jp
 code.createjs.com
 code.highcharts.com
 code.ionicframework.com
