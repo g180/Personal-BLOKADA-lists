@@ -15,6 +15,7 @@ amp.akamaized.net
 analytics.twitter.com
 api.cxense.com
 api.iterable.com
+api.popin.cc
 api.recsys.opera.com
 app-data.gcs.trstatic.net
 appleid.cdn-apple.com
