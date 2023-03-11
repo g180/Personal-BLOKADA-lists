@@ -288,6 +288,7 @@ s.abcnews.com
 s.gr-assets.com
 s.hatena.ne.jp
 s.hdnux.com
+s.mxmcdn.net
 s.pimg.jp
 s.pinimg.com
 s.pximg.net
