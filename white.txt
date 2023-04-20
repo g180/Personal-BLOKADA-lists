@@ -368,6 +368,7 @@ tkx.mp.lura.live
 tokyo-sports.ismcdn.jp
 tools.applemediaservices.com
 trafficnews.jp
+trib.al
 twemoji.maxcdn.com
 twitter.app.link
 twitter.countoon.com
