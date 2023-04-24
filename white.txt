@@ -233,6 +233,7 @@ ma422-r.analytics.edgekey.net
 manifest.prod.boltdns.net
 media-01.creema.net
 media.discordapp.net
+media.dlsite.com
 media.giphy.com
 media.immediate.co.uk
 media.loom-app.com
@@ -376,6 +377,7 @@ txxx.ahcdn.com
 u.jimcdn.com
 unstats.un.org
 uploads-ssl.webflow.com
+uploads-us-west-2.insided.com
 usercss.blog.st-hatena.com
 vanilla.futurecdn.net
 vaughnlive.tv
