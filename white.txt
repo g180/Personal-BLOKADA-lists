@@ -124,6 +124,10 @@ ei.rdtcdn.com
 eiga.k-img.com
 embed.acast.com
 encore.scdn.co
+encrypted-tbn0.gstatic.com
+encrypted-tbn1.gstatic.com
+encrypted-tbn2.gstatic.com
+encrypted-tbn3.gstatic.com
 epe.brightspotcdn.com
 error.fc2.com
 eu-images.contentstack.com
