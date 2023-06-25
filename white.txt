@@ -51,6 +51,7 @@ bloximages.newyork1.vip.townnews.com
 bostonglobe-prod.cdn.arcpublishing.com
 browser.sentry-cdn.com
 buff.ly
+c.aiircdn.com
 c.stat100.ameba.jp
 c799eb2b0cad47596bf7b1e050e83426.cdnext.stream.ne.jp
 ca-times.brightspotcdn.com
