@@ -326,6 +326,7 @@ sitest.jp
 slot1-images.wikia.nocookie.net
 smartcdn.gprod.postmedia.digital
 smartplugin.youbora.com
+smt.docomo.ne.jp
 social-plugins.line.me
 sp-ao.shortpixel.ai
 ss.phncdn.com
