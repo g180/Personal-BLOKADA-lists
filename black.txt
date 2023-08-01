@@ -101,6 +101,7 @@
 0.0.0.0 98.nbryb.com
 0.0.0.0 99.nbryb.com
 0.0.0.0 a.teads.tv
+0.0.0.0 a6.smartnews-ads.com
 0.0.0.0 abema.adx.promo
 0.0.0.0 abemameas-adx.promo
 0.0.0.0 action.adzcore.com
@@ -126,6 +127,7 @@
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 cdn.smartnews-ads.com
 0.0.0.0 competition1399.sandwichrldo18.live
+0.0.0.0 creative.smartnews-ads.com
 0.0.0.0 criteo.com
 0.0.0.0 dailymotion-ams.gravityrd-services.com
 0.0.0.0 deployads.com
@@ -157,6 +159,7 @@
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.realsrv.com
 0.0.0.0 taboola.com
+0.0.0.0 thumbnail.smartnews-ads.com
 0.0.0.0 udorothyjhfb.dip.jp
 0.0.0.0 unagi.amazon.com
 0.0.0.0 us-analytics-api.gree-apps.net
