@@ -21,6 +21,7 @@ api.recsys.opera.com
 app-data.gcs.trstatic.net
 appleid.cdn-apple.com
 apps.apple.com
+archive.ph
 askul.c.yimg.jp
 assets-cdn.abcnews.com
 assets-global.website-files.com
