@@ -347,6 +347,7 @@ static-21.sinclairstoryline.com
 static-22.sinclairstoryline.com
 static-31.sinclairstoryline.com
 static-assets.clubhouseapi.com
+static.assetlab.io
 static.codepen.io
 static.fc2.com
 static.gearspace.com
