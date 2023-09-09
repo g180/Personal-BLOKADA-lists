@@ -14,7 +14,6 @@ akm-img-a-in.tosshub.com
 americanmilitarynews.com
 amp.akamaized.net
 analytics.twitter.com
-ancientact.com
 api.cxense.com
 api.iterable.com
 api.popin.cc
@@ -348,7 +347,6 @@ static-21.sinclairstoryline.com
 static-22.sinclairstoryline.com
 static-31.sinclairstoryline.com
 static-assets.clubhouseapi.com
-static.adsafeprotected.com
 static.codepen.io
 static.fc2.com
 static.gearspace.com
