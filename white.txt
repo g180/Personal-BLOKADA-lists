@@ -24,6 +24,7 @@ apps.apple.com
 archive.ph
 askul.c.yimg.jp
 assets-cdn.abcnews.com
+assets-eu-01.kc-usercontent.com
 assets-global.website-files.com
 assets.adobedtm.com
 assets.bwbx.io
