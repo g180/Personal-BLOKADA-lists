@@ -249,6 +249,7 @@ media.dlsite.com
 media.giphy.com
 media.immediate.co.uk
 media.loom-app.com
+media.ouest-france.fr
 media.socastsrm.com
 media.springernature.com
 media.wnyc.org
@@ -321,6 +322,7 @@ s4.bcbits.com
 scdn.cxense.com
 scontent-nrt1-1.xx.fbcdn.net
 script.mixi.net
+sdk.privacy-center.org
 secure-dcdn.cdn.nimg.jp
 sf16-muse-va.ibytedtos.com
 sf16-website-login.neutral.ttwstatic.com
