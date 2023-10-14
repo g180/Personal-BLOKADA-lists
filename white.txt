@@ -9,6 +9,7 @@ aadcdn.msauth.net
 aadcdn.msftauth.net
 abuwjaawap.cloudimg.io
 access.mp.lura.live
+aeradot.ismcdn.jp
 afpbb.ismcdn.jp
 akm-img-a-in.tosshub.com
 americanmilitarynews.com
