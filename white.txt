@@ -281,6 +281,7 @@ platform.instagram.com
 platform.twitter.com
 play.app.goo.gl
 playatoms-pa.googleapis.com
+player-frontend.cnevids.com
 player.h-cdn.com
 player.megaphone.fm
 player.simplecast.com
