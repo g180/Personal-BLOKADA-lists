@@ -42,6 +42,7 @@ assets.rebelmouse.io
 assets.sb-cd.com
 assets.squarespace.com
 assets.st-note.com
+assets.strpst.com
 assets.tumblr.com
 assets.website-files.com
 audioboom.com
@@ -203,6 +204,7 @@ img.huffingtonpost.com
 img.medscapestatic.com
 img.mixi.net
 img.shields.io
+img.strpst.com
 img.tfd.com
 img.topics.smt.news.goo.ne.jp
 img1.bdbphotos.com
@@ -352,6 +354,7 @@ static-21.sinclairstoryline.com
 static-22.sinclairstoryline.com
 static-31.sinclairstoryline.com
 static-assets.clubhouseapi.com
+static-cdn.strpst.com
 static.assetlab.io
 static.codepen.io
 static.fc2.com
