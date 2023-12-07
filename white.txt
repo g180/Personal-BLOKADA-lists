@@ -60,6 +60,7 @@ c.aiircdn.com
 c.stat100.ameba.jp
 c799eb2b0cad47596bf7b1e050e83426.cdnext.stream.ne.jp
 ca-times.brightspotcdn.com
+cache.img.gmo.jp
 caps1cdn.adultempire.com
 cc3001.dmm.co.jp
 cdj-dap.s3-ap-northeast-1.amazonaws.com
