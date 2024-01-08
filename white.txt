@@ -165,6 +165,7 @@ go.nihon-eiga.com
 graphql.api.dailymotion.com
 gree.jp
 gyazo.com
+hatenablog-parts.com
 hips.hearstapps.com
 href.li
 i.daily.jp
