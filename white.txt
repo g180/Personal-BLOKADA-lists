@@ -228,6 +228,7 @@ is4-ssl.mzstatic.com
 is5-ssl.mzstatic.com
 itunes.apple.com
 jbpress.ismcdn.jp
+jpnews-video.com
 jprime.ismcdn.jp
 js-cdn.music.apple.com
 js.zohocdn.com
