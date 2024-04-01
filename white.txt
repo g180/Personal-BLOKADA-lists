@@ -435,6 +435,7 @@ www.inc.com
 www.kissmetrics.io
 www.lightboxcdn.com
 www.mywot.com
+www.nicovideo.jp
 www.popmatters.com
 www.queryly.com
 www.rapidvideo.com
