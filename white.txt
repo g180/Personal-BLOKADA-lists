@@ -158,6 +158,7 @@ fnn.ismcdn.jp
 fontplus.aem.kao.com
 fonts.bunny.net
 forum.xda-cdn.com
+gateway.on24.com
 gendai.ismcdn.jp
 github.githubassets.com
 global-uploads.webflow.com
