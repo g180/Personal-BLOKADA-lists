@@ -253,6 +253,7 @@ log.mmstat.com
 logmi.jp
 ma422-r.analytics.edgekey.net
 manifest.prod.boltdns.net
+manuals.handleidingkwijt.com
 media-01.creema.net
 media.discordapp.net
 media.dlsite.com
