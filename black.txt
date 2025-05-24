@@ -106,6 +106,7 @@
 0.0.0.0 abemameas-adx.promo
 0.0.0.0 action.adzcore.com
 0.0.0.0 ad.afy11.net
+0.0.0.0 ad.as.amanad.adtdp.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 agrarianeruption.com
 0.0.0.0 analytics.app-adforce.jp
@@ -140,6 +141,7 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 iech6ie1gee2sheifahphah7nuh9eo7a.techinsight.jp
 0.0.0.0 italiangarlic.it
+0.0.0.0 itr.ad.abema.io
 0.0.0.0 jqyde7msbro2.com
 0.0.0.0 js.revsci.net
 0.0.0.0 log.smartnews-ads.com
