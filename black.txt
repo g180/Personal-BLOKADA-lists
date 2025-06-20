@@ -107,6 +107,7 @@
 0.0.0.0 action.adzcore.com
 0.0.0.0 ad.afy11.net
 0.0.0.0 ad.as.amanad.adtdp.com
+0.0.0.0 ads.adingo.jp
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 agrarianeruption.com
 0.0.0.0 analytics.app-adforce.jp
