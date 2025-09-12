@@ -159,6 +159,7 @@
 0.0.0.0 se-recommend.smartnews.com
 0.0.0.0 setting.adzcore.com
 0.0.0.0 smartnews-ads.com
+0.0.0.0 smartnews-assets.s3.ap-northeast-1.amazonaws.com
 0.0.0.0 stats.novalauncher.com
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 syndication.exosrv.com
