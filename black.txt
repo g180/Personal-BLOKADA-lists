@@ -115,6 +115,8 @@
 0.0.0.0 api.ads.newsdigest.jp
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.smartnews-ads.com
+0.0.0.0 api16-access-ttp.tiktokpangle.us
+0.0.0.0 api16-access-wf-sg.pangle.io
 0.0.0.0 app.adjust.io
 0.0.0.0 assets.dspunion.com
 0.0.0.0 avod.ad.abema.io
@@ -159,8 +161,10 @@
 0.0.0.0 se-recommend-img.smartnews.com
 0.0.0.0 se-recommend.smartnews.com
 0.0.0.0 setting.adzcore.com
+0.0.0.0 sf16-static.i18n-pglstatp.com
 0.0.0.0 smartnews-ads.com
 0.0.0.0 smartnews-assets.s3.ap-northeast-1.amazonaws.com
+0.0.0.0 ssdk-sg.pangle.io
 0.0.0.0 stats.novalauncher.com
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 syndication.exosrv.com
