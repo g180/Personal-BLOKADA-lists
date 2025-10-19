@@ -148,6 +148,7 @@
 0.0.0.0 js.revsci.net
 0.0.0.0 log.smartnews-ads.com
 0.0.0.0 logger-04.vty.dailymotion.com
+0.0.0.0 logs.ads.vungle.com
 0.0.0.0 no-ga-mi-panya.over-blog.com
 0.0.0.0 okhfyyfgw.com
 0.0.0.0 pebed.dm.gg
