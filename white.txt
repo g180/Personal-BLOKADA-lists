@@ -321,6 +321,7 @@ s.mxmcdn.net
 s.pimg.jp
 s.pinimg.com
 s.pximg.net
+s.tgstc.com
 s.w.org
 s1.dmcdn.net
 s18671.pcdn.co
