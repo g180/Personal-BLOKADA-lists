@@ -95,6 +95,7 @@ cdn5-static.motherlessmedia.com
 cdn5-thumbs.motherlessmedia.com
 cfl.dropboxstatic.com
 chrome.cloudflare-dns.com
+chromesyncpasswords-pa.googleapis.com
 chronicle.brightspotcdn.com
 chtbl.com
 ci-ph.rdtcdn.com
@@ -277,6 +278,7 @@ p.dmm.com
 p16-sign-sg.tiktokcdn.com
 pardot.csis.org
 parts.blog.livedoor.jp
+passwordsleakcheck-pa.googleapis.com
 pbcdn1.podbean.com
 pbs.twimg.com
 pdst.fm
