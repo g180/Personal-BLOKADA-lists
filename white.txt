@@ -296,6 +296,7 @@ player-frontend.cnevids.com
 player.captivate.fm
 player.h-cdn.com
 player.megaphone.fm
+player.pbs.org
 player.simplecast.com
 player2.h-cdn.com
 playerservices.streamtheworld.com
